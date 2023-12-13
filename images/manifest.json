@@ -7,6 +7,64 @@
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
     "width" : 3072,
+    "id" : "https://VRCUCR.github.io/robadiroma/images/2015_009RobaRoma004/canvas/",
+    "label" : {
+      "none" : [ "2015_009RobaRoma004" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://VRCUCR.github.io/robadiroma/images/2015_009RobaRoma004/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://VRCUCR.github.io/robadiroma/images/2015_009RobaRoma004/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 96,
+              "height" : 66
+            }, {
+              "width" : 192,
+              "height" : 131
+            }, {
+              "width" : 384,
+              "height" : 261
+            }, {
+              "width" : 768,
+              "height" : 522
+            }, {
+              "width" : 1536,
+              "height" : 1043
+            }, {
+              "width" : 3072,
+              "height" : 2085
+            } ],
+            "profile" : "level0",
+            "width" : 3072,
+            "id" : "https://VRCUCR.github.io/robadiroma/images/2015_009RobaRoma004",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 2085
+          } ],
+          "format" : "image/jpeg",
+          "width" : 3072,
+          "id" : "https://VRCUCR.github.io/robadiroma/images/2015_009RobaRoma004/full/max/0/default.jpg",
+          "type" : "Image",
+          "height" : 2085
+        },
+        "target" : "https://VRCUCR.github.io/robadiroma/images/2015_009RobaRoma004/canvas/"
+      } ]
+    } ],
+    "height" : 2085
+  }, {
+    "width" : 3072,
     "id" : "https://VRCUCR.github.io/robadiroma/images/2015_008RobaRoma003/canvas/",
     "label" : {
       "none" : [ "2015_008RobaRoma003" ]
