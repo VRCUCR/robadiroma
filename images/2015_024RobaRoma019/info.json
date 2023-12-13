@@ -1,0 +1,33 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 191,
+    "height" : 130
+  }, {
+    "width" : 381,
+    "height" : 259
+  }, {
+    "width" : 762,
+    "height" : 518
+  }, {
+    "width" : 1523,
+    "height" : 1036
+  }, {
+    "width" : 3046,
+    "height" : 2071
+  }, {
+    "width" : 6091,
+    "height" : 4141
+  } ],
+  "profile" : "level0",
+  "width" : 6091,
+  "id" : "https://VRCUCR.github.io/robadiroma/images/2015_024RobaRoma019",
+  "type" : "ImageService3",
+  "@context" : "http://iiif.io/api/image/3/context.json",
+  "height" : 4141
+}
