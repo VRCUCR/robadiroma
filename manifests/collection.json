@@ -1,0 +1,15 @@
+{
+  "id" : "https://VRCUCR.github.io/robadiroma/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in VRCUCR/robadiroma project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "id" : "https://VRCUCR.github.io/robadiroma/manifests/robadiroma.json",
+    "label" : {
+      "en" : [ "Roba di Roma" ]
+    },
+    "type" : "Manifest"
+  } ]
+}
