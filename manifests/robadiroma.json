@@ -1,0 +1,2291 @@
+{
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "id" : "https://VRCUCR.github.io/robadiroma/manifests/robadiroma.json",
+  "type" : "Manifest",
+  "label" : {
+    "en" : [ "Roba di Roma" ]
+  },
+  "items" : [ {
+    "id" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/canvas/7b10075e-dd5d-461e-9450-6a33cd6f876e",
+    "type" : "Canvas",
+    "height" : 3072,
+    "width" : 1751,
+    "label" : {
+      "en" : [ "001" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://github.com/VRCUCR/robadiroma/blob/main/images/2015_006RobaRoma001/0,0,1751,3072/110,192/0/default.jpg?raw=true",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 192,
+      "width" : 110
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/canvas/7b10075e-dd5d-461e-9450-6a33cd6f876e/annotation-page/2bb65659-28c6-4b98-a403-1af9db1a1e7d",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/annotation/f10e23d2-feaa-405b-9fa7-a7e4e4c2e13d",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/canvas/7b10075e-dd5d-461e-9450-6a33cd6f876e",
+        "body" : {
+          "id" : "https://VRCUCR.github.io/robadiroma/images/2015_006RobaRoma001/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 3072,
+          "width" : 1751,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 55,
+              "height" : 96
+            }, {
+              "width" : 110,
+              "height" : 192
+            }, {
+              "width" : 219,
+              "height" : 384
+            }, {
+              "width" : 438,
+              "height" : 768
+            }, {
+              "width" : 876,
+              "height" : 1536
+            }, {
+              "width" : 1751,
+              "height" : 3072
+            } ],
+            "profile" : "level0",
+            "width" : 1751,
+            "id" : "https://VRCUCR.github.io/robadiroma/images/2015_006RobaRoma001",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 3072
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/canvas/e9e7059d-e8b4-4418-a384-0bef1d557566",
+    "type" : "Canvas",
+    "height" : 3072,
+    "width" : 2065,
+    "label" : {
+      "en" : [ "002" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://github.com/VRCUCR/robadiroma/blob/main/images/2015_007RobaRoma002/0,0,2065,3072/130,192/0/default.jpg?raw=true",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 192,
+      "width" : 130
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/canvas/e9e7059d-e8b4-4418-a384-0bef1d557566/annotation-page/e9b8b917-d83c-4651-89b4-418cbdf536f1",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/annotation/f7359df1-572e-484d-b7dd-219f68b3169c",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/canvas/e9e7059d-e8b4-4418-a384-0bef1d557566",
+        "body" : {
+          "id" : "https://VRCUCR.github.io/robadiroma/images/2015_007RobaRoma002/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 3072,
+          "width" : 2065,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 65,
+              "height" : 96
+            }, {
+              "width" : 130,
+              "height" : 192
+            }, {
+              "width" : 259,
+              "height" : 384
+            }, {
+              "width" : 517,
+              "height" : 768
+            }, {
+              "width" : 1033,
+              "height" : 1536
+            }, {
+              "width" : 2065,
+              "height" : 3072
+            } ],
+            "profile" : "level0",
+            "width" : 2065,
+            "id" : "https://VRCUCR.github.io/robadiroma/images/2015_007RobaRoma002",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 3072
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/canvas/09def46b-fdce-4c85-a1e0-dc8ae570bf5d",
+    "type" : "Canvas",
+    "height" : 2268,
+    "width" : 3072,
+    "label" : {
+      "en" : [ "003" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://github.com/VRCUCR/robadiroma/blob/main/images/2015_008RobaRoma003/0,0,3072,2268/192,142/0/default.jpg?raw=true",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 142,
+      "width" : 192
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/canvas/09def46b-fdce-4c85-a1e0-dc8ae570bf5d/annotation-page/38106241-ae87-4fda-a5e2-6f68d3ea05f8",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/annotation/e24dda83-40b9-42b8-a51e-0bbe24aa8db1",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/canvas/09def46b-fdce-4c85-a1e0-dc8ae570bf5d",
+        "body" : {
+          "id" : "https://VRCUCR.github.io/robadiroma/images/2015_008RobaRoma003/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 2268,
+          "width" : 3072,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 96,
+              "height" : 71
+            }, {
+              "width" : 192,
+              "height" : 142
+            }, {
+              "width" : 384,
+              "height" : 284
+            }, {
+              "width" : 768,
+              "height" : 567
+            }, {
+              "width" : 1536,
+              "height" : 1134
+            }, {
+              "width" : 3072,
+              "height" : 2268
+            } ],
+            "profile" : "level0",
+            "width" : 3072,
+            "id" : "https://VRCUCR.github.io/robadiroma/images/2015_008RobaRoma003",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 2268
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/canvas/6c6708c3-b3c4-4848-bae8-df665cecfb0b",
+    "type" : "Canvas",
+    "height" : 2085,
+    "width" : 3072,
+    "label" : {
+      "en" : [ "004" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://github.com/VRCUCR/robadiroma/blob/main/images/2015_009RobaRoma004/0,0,3072,2085/192,131/0/default.jpg?raw=true",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 131,
+      "width" : 192
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/canvas/6c6708c3-b3c4-4848-bae8-df665cecfb0b/annotation-page/228ef5da-8d52-47c9-bc93-c6b20e18d883",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/annotation/8fe7903a-5cb4-48ad-bbfc-4956242ffab3",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/canvas/6c6708c3-b3c4-4848-bae8-df665cecfb0b",
+        "body" : {
+          "id" : "https://VRCUCR.github.io/robadiroma/images/2015_009RobaRoma004/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 2085,
+          "width" : 3072,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 96,
+              "height" : 66
+            }, {
+              "width" : 192,
+              "height" : 131
+            }, {
+              "width" : 384,
+              "height" : 261
+            }, {
+              "width" : 768,
+              "height" : 522
+            }, {
+              "width" : 1536,
+              "height" : 1043
+            }, {
+              "width" : 3072,
+              "height" : 2085
+            } ],
+            "profile" : "level0",
+            "width" : 3072,
+            "id" : "https://VRCUCR.github.io/robadiroma/images/2015_009RobaRoma004",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 2085
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/canvas/cce122c4-b9ab-477f-804a-5f7e3504a27d",
+    "type" : "Canvas",
+    "height" : 4510,
+    "width" : 6175,
+    "label" : {
+      "en" : [ "005" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://github.com/VRCUCR/robadiroma/blob/main/images/2015_010RobaRoma005/0,0,6175,4510/193,141/0/default.jpg?raw=true",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 141,
+      "width" : 193
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/canvas/cce122c4-b9ab-477f-804a-5f7e3504a27d/annotation-page/27ae1191-9767-4c36-bedf-9f09ddf2362d",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/annotation/e77c445b-5151-4f3e-996c-6e8863c3b056",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/canvas/cce122c4-b9ab-477f-804a-5f7e3504a27d",
+        "body" : {
+          "id" : "https://VRCUCR.github.io/robadiroma/images/2015_010RobaRoma005/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 4510,
+          "width" : 6175,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 193,
+              "height" : 141
+            }, {
+              "width" : 386,
+              "height" : 282
+            }, {
+              "width" : 772,
+              "height" : 564
+            }, {
+              "width" : 1544,
+              "height" : 1128
+            }, {
+              "width" : 3088,
+              "height" : 2255
+            }, {
+              "width" : 6175,
+              "height" : 4510
+            } ],
+            "profile" : "level0",
+            "width" : 6175,
+            "id" : "https://VRCUCR.github.io/robadiroma/images/2015_010RobaRoma005",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 4510
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/canvas/6ccc6e09-8b4e-4104-97bb-ac6d062ed523",
+    "type" : "Canvas",
+    "height" : 3247,
+    "width" : 4112,
+    "label" : {
+      "en" : [ "006" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://github.com/VRCUCR/robadiroma/blob/main/images/2015_011RobaRoma006/0,0,4112,3247/129,102/0/default.jpg?raw=true",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 102,
+      "width" : 129
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/canvas/6ccc6e09-8b4e-4104-97bb-ac6d062ed523/annotation-page/969be483-9bca-44e8-9f02-0d99293012f8",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/annotation/cc4a4241-cde8-4f6e-9e47-a1127ba5ee53",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/canvas/6ccc6e09-8b4e-4104-97bb-ac6d062ed523",
+        "body" : {
+          "id" : "https://VRCUCR.github.io/robadiroma/images/2015_011RobaRoma006/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 3247,
+          "width" : 4112,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 129,
+              "height" : 102
+            }, {
+              "width" : 257,
+              "height" : 203
+            }, {
+              "width" : 514,
+              "height" : 406
+            }, {
+              "width" : 1028,
+              "height" : 812
+            }, {
+              "width" : 2056,
+              "height" : 1624
+            }, {
+              "width" : 4112,
+              "height" : 3247
+            } ],
+            "profile" : "level0",
+            "width" : 4112,
+            "id" : "https://VRCUCR.github.io/robadiroma/images/2015_011RobaRoma006",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 3247
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/canvas/b7a09d69-a8c8-4268-9766-cade8bb060de",
+    "type" : "Canvas",
+    "height" : 3108,
+    "width" : 4053,
+    "label" : {
+      "en" : [ "007" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://github.com/VRCUCR/robadiroma/blob/main/images/2015_012RobaRoma007/0,0,4053,3108/254,195/0/default.jpg?raw=true",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 195,
+      "width" : 254
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/canvas/b7a09d69-a8c8-4268-9766-cade8bb060de/annotation-page/370f86da-3ba0-4046-9866-ce60358a1fb7",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/annotation/21e771f9-5931-4b59-9f75-64474735459c",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/canvas/b7a09d69-a8c8-4268-9766-cade8bb060de",
+        "body" : {
+          "id" : "https://VRCUCR.github.io/robadiroma/images/2015_012RobaRoma007/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 3108,
+          "width" : 4053,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 127,
+              "height" : 98
+            }, {
+              "width" : 254,
+              "height" : 195
+            }, {
+              "width" : 507,
+              "height" : 389
+            }, {
+              "width" : 1014,
+              "height" : 777
+            }, {
+              "width" : 2027,
+              "height" : 1554
+            }, {
+              "width" : 4053,
+              "height" : 3108
+            } ],
+            "profile" : "level0",
+            "width" : 4053,
+            "id" : "https://VRCUCR.github.io/robadiroma/images/2015_012RobaRoma007",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 3108
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/canvas/59d2687e-f4fa-47dc-9e29-129e6c63758e",
+    "type" : "Canvas",
+    "height" : 4223,
+    "width" : 5939,
+    "label" : {
+      "en" : [ "008" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://github.com/VRCUCR/robadiroma/blob/main/images/2015_013RobaRoma008/0,0,5939,4223/372,264/0/default.jpg?raw=true",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 264,
+      "width" : 372
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/canvas/59d2687e-f4fa-47dc-9e29-129e6c63758e/annotation-page/44c62ab5-8231-4ef3-baf7-ef0acafca287",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/annotation/7b8e687e-e6c9-46e0-8b08-aa6518f55129",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/canvas/59d2687e-f4fa-47dc-9e29-129e6c63758e",
+        "body" : {
+          "id" : "https://VRCUCR.github.io/robadiroma/images/2015_013RobaRoma008/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 4223,
+          "width" : 5939,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 186,
+              "height" : 132
+            }, {
+              "width" : 372,
+              "height" : 264
+            }, {
+              "width" : 743,
+              "height" : 528
+            }, {
+              "width" : 1485,
+              "height" : 1056
+            }, {
+              "width" : 2970,
+              "height" : 2112
+            }, {
+              "width" : 5939,
+              "height" : 4223
+            } ],
+            "profile" : "level0",
+            "width" : 5939,
+            "id" : "https://VRCUCR.github.io/robadiroma/images/2015_013RobaRoma008",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 4223
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/canvas/5f93b419-38c9-469c-9f4a-ca85a0bf03a7",
+    "type" : "Canvas",
+    "height" : 3923,
+    "width" : 5799,
+    "label" : {
+      "en" : [ "009" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://github.com/VRCUCR/robadiroma/blob/main/images/2015_014RobaRoma009/0,0,5799,3923/363,246/0/default.jpg?raw=true",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 246,
+      "width" : 363
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/canvas/5f93b419-38c9-469c-9f4a-ca85a0bf03a7/annotation-page/8b87298c-1e3d-4b85-ba05-3258a6a357f1",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/annotation/09968e4e-c650-4d09-bd7c-e6b8aada35ea",
+        "type" : "Annotation",
+        "thumbnail" : [ {
+          "id" : "https://github.com/VRCUCR/robadiroma/blob/main/images/2015_014RobaRoma009/0,0,5799,3923/363,246/0/default.jpg?raw=true",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 246,
+          "width" : 363
+        } ],
+        "motivation" : "painting",
+        "target" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/canvas/5f93b419-38c9-469c-9f4a-ca85a0bf03a7",
+        "body" : {
+          "id" : "https://VRCUCR.github.io/robadiroma/images/2015_014RobaRoma009/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 3923,
+          "width" : 5799,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 182,
+              "height" : 123
+            }, {
+              "width" : 363,
+              "height" : 246
+            }, {
+              "width" : 725,
+              "height" : 491
+            }, {
+              "width" : 1450,
+              "height" : 981
+            }, {
+              "width" : 2900,
+              "height" : 1962
+            }, {
+              "width" : 5799,
+              "height" : 3923
+            } ],
+            "profile" : "level0",
+            "width" : 5799,
+            "id" : "https://VRCUCR.github.io/robadiroma/images/2015_014RobaRoma009",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 3923
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/canvas/f2acb79c-537c-44fa-a30b-e27ccd26a9b0",
+    "type" : "Canvas",
+    "height" : 6018,
+    "width" : 4362,
+    "label" : {
+      "en" : [ "010" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://github.com/VRCUCR/robadiroma/blob/main/images/2015_015RobaRoma010/0,0,4362,6018/273,377/0/default.jpg?raw=true",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 377,
+      "width" : 273
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/canvas/f2acb79c-537c-44fa-a30b-e27ccd26a9b0/annotation-page/c18514ad-1da3-4922-8f4f-407e9e7da72f",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/annotation/429a9194-d82c-4ff3-acd3-35c646813b27",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/canvas/f2acb79c-537c-44fa-a30b-e27ccd26a9b0",
+        "body" : {
+          "id" : "https://VRCUCR.github.io/robadiroma/images/2015_015RobaRoma010/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 6018,
+          "width" : 4362,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 137,
+              "height" : 189
+            }, {
+              "width" : 273,
+              "height" : 377
+            }, {
+              "width" : 546,
+              "height" : 753
+            }, {
+              "width" : 1091,
+              "height" : 1505
+            }, {
+              "width" : 2181,
+              "height" : 3009
+            }, {
+              "width" : 4362,
+              "height" : 6018
+            } ],
+            "profile" : "level0",
+            "width" : 4362,
+            "id" : "https://VRCUCR.github.io/robadiroma/images/2015_015RobaRoma010",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 6018
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/canvas/dc2839ee-f87d-4187-9dbf-cf5a4c601912",
+    "type" : "Canvas",
+    "height" : 3761,
+    "width" : 5880,
+    "label" : {
+      "en" : [ "011" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://github.com/VRCUCR/robadiroma/blob/main/images/2015_016RobaRoma011/0,0,5880,3761/368,236/0/default.jpg?raw=true",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 236,
+      "width" : 368
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/canvas/dc2839ee-f87d-4187-9dbf-cf5a4c601912/annotation-page/38d6e68d-93ff-4b33-a4c1-2e55739323da",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/annotation/b71fb65d-f68f-415f-a72f-8e22909dd6f0",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/canvas/dc2839ee-f87d-4187-9dbf-cf5a4c601912",
+        "body" : {
+          "id" : "https://VRCUCR.github.io/robadiroma/images/2015_016RobaRoma011/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 3761,
+          "width" : 5880,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 184,
+              "height" : 118
+            }, {
+              "width" : 368,
+              "height" : 236
+            }, {
+              "width" : 735,
+              "height" : 471
+            }, {
+              "width" : 1470,
+              "height" : 941
+            }, {
+              "width" : 2940,
+              "height" : 1881
+            }, {
+              "width" : 5880,
+              "height" : 3761
+            } ],
+            "profile" : "level0",
+            "width" : 5880,
+            "id" : "https://VRCUCR.github.io/robadiroma/images/2015_016RobaRoma011",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 3761
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/canvas/06bcd54b-6a0c-4544-92a8-b6f381f6a08f",
+    "type" : "Canvas",
+    "height" : 4155,
+    "width" : 3149,
+    "label" : {
+      "en" : [ "012" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://github.com/VRCUCR/robadiroma/blob/main/images/2015_017RobaRoma012/0,0,3149,4155/197,260/0/default.jpg?raw=true",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 260,
+      "width" : 197
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/canvas/06bcd54b-6a0c-4544-92a8-b6f381f6a08f/annotation-page/95eec053-99ad-45f1-be8b-5b1ca8266bda",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/annotation/ee9fecc6-6030-4ecb-b863-bc2a8ea5aef7",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/canvas/06bcd54b-6a0c-4544-92a8-b6f381f6a08f",
+        "body" : {
+          "id" : "https://VRCUCR.github.io/robadiroma/images/2015_017RobaRoma012/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 4155,
+          "width" : 3149,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 99,
+              "height" : 130
+            }, {
+              "width" : 197,
+              "height" : 260
+            }, {
+              "width" : 394,
+              "height" : 520
+            }, {
+              "width" : 788,
+              "height" : 1039
+            }, {
+              "width" : 1575,
+              "height" : 2078
+            }, {
+              "width" : 3149,
+              "height" : 4155
+            } ],
+            "profile" : "level0",
+            "width" : 3149,
+            "id" : "https://VRCUCR.github.io/robadiroma/images/2015_017RobaRoma012",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 4155
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/canvas/951de036-ff24-4e3c-9c9b-ef77d8babe97",
+    "type" : "Canvas",
+    "height" : 3688,
+    "width" : 3056,
+    "label" : {
+      "en" : [ "013" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://github.com/VRCUCR/robadiroma/blob/main/images/2015_018RobaRoma013/0,0,3056,3688/191,231/0/default.jpg?raw=true",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 231,
+      "width" : 191
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/canvas/951de036-ff24-4e3c-9c9b-ef77d8babe97/annotation-page/65dab036-c361-4241-9c67-9b1541e9b1f9",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/annotation/67f08545-036c-4b8c-a4b3-7baf84a96dd2",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/canvas/951de036-ff24-4e3c-9c9b-ef77d8babe97",
+        "body" : {
+          "id" : "https://VRCUCR.github.io/robadiroma/images/2015_018RobaRoma013/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 3688,
+          "width" : 3056,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 96,
+              "height" : 116
+            }, {
+              "width" : 191,
+              "height" : 231
+            }, {
+              "width" : 382,
+              "height" : 461
+            }, {
+              "width" : 764,
+              "height" : 922
+            }, {
+              "width" : 1528,
+              "height" : 1844
+            }, {
+              "width" : 3056,
+              "height" : 3688
+            } ],
+            "profile" : "level0",
+            "width" : 3056,
+            "id" : "https://VRCUCR.github.io/robadiroma/images/2015_018RobaRoma013",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 3688
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/canvas/0cea43e8-0ad5-480c-b851-cc72e100cb7b",
+    "type" : "Canvas",
+    "height" : 4035,
+    "width" : 2904,
+    "label" : {
+      "en" : [ "014" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://github.com/VRCUCR/robadiroma/blob/main/images/2015_019RobaRoma014/0,0,2904,4035/182,253/0/default.jpg?raw=true",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 253,
+      "width" : 182
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/canvas/0cea43e8-0ad5-480c-b851-cc72e100cb7b/annotation-page/7c2b3119-51f5-46e2-91b3-f64cf535d751",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/annotation/d9a94a52-0cd2-470e-8f80-e8e41a6904bd",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/canvas/0cea43e8-0ad5-480c-b851-cc72e100cb7b",
+        "body" : {
+          "id" : "https://VRCUCR.github.io/robadiroma/images/2015_019RobaRoma014/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 4035,
+          "width" : 2904,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 91,
+              "height" : 127
+            }, {
+              "width" : 182,
+              "height" : 253
+            }, {
+              "width" : 363,
+              "height" : 505
+            }, {
+              "width" : 726,
+              "height" : 1009
+            }, {
+              "width" : 1452,
+              "height" : 2018
+            }, {
+              "width" : 2904,
+              "height" : 4035
+            } ],
+            "profile" : "level0",
+            "width" : 2904,
+            "id" : "https://VRCUCR.github.io/robadiroma/images/2015_019RobaRoma014",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 4035
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/canvas/3a304508-230f-495a-8f97-92567afc6b57",
+    "type" : "Canvas",
+    "height" : 5650,
+    "width" : 4175,
+    "label" : {
+      "en" : [ "015" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://github.com/VRCUCR/robadiroma/blob/main/images/2015_020RobaRoma015/0,0,4175,5650/261,354/0/default.jpg?raw=true",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 354,
+      "width" : 261
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/canvas/3a304508-230f-495a-8f97-92567afc6b57/annotation-page/d47742dd-9558-4873-8679-9154ac190f9e",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/annotation/4b2dfe46-27c6-4209-8c57-a360c4c0d35f",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/canvas/3a304508-230f-495a-8f97-92567afc6b57",
+        "body" : {
+          "id" : "https://VRCUCR.github.io/robadiroma/images/2015_020RobaRoma015/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 5650,
+          "width" : 4175,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 131,
+              "height" : 177
+            }, {
+              "width" : 261,
+              "height" : 354
+            }, {
+              "width" : 522,
+              "height" : 707
+            }, {
+              "width" : 1044,
+              "height" : 1413
+            }, {
+              "width" : 2088,
+              "height" : 2825
+            }, {
+              "width" : 4175,
+              "height" : 5650
+            } ],
+            "profile" : "level0",
+            "width" : 4175,
+            "id" : "https://VRCUCR.github.io/robadiroma/images/2015_020RobaRoma015",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 5650
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/canvas/54950aa4-ed7b-48b6-bd35-102a3dcc8cf8",
+    "type" : "Canvas",
+    "height" : 5742,
+    "width" : 4236,
+    "label" : {
+      "en" : [ "016" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://github.com/VRCUCR/robadiroma/blob/main/images/2015_021RobaRoma016/0,0,4236,5742/265,359/0/default.jpg?raw=true",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 359,
+      "width" : 265
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/canvas/54950aa4-ed7b-48b6-bd35-102a3dcc8cf8/annotation-page/8ebc6bdb-4405-40fa-b51e-d5535bcf1754",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/annotation/45873403-f1c4-4bf3-9ae0-77baf4b406af",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/canvas/54950aa4-ed7b-48b6-bd35-102a3dcc8cf8",
+        "body" : {
+          "id" : "https://VRCUCR.github.io/robadiroma/images/2015_021RobaRoma016/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 5742,
+          "width" : 4236,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 133,
+              "height" : 180
+            }, {
+              "width" : 265,
+              "height" : 359
+            }, {
+              "width" : 530,
+              "height" : 718
+            }, {
+              "width" : 1059,
+              "height" : 1436
+            }, {
+              "width" : 2118,
+              "height" : 2871
+            }, {
+              "width" : 4236,
+              "height" : 5742
+            } ],
+            "profile" : "level0",
+            "width" : 4236,
+            "id" : "https://VRCUCR.github.io/robadiroma/images/2015_021RobaRoma016",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 5742
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/canvas/a11aa6b1-7c80-468c-bb73-cf07e87e5a23",
+    "type" : "Canvas",
+    "height" : 5206,
+    "width" : 4342,
+    "label" : {
+      "en" : [ "017" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://github.com/VRCUCR/robadiroma/blob/main/images/2015_022RobaRoma017/0,0,4342,5206/272,326/0/default.jpg?raw=true",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 326,
+      "width" : 272
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/canvas/a11aa6b1-7c80-468c-bb73-cf07e87e5a23/annotation-page/7a12cfbf-5cd0-4571-8a00-af6da5394618",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/annotation/83d34fa5-7bbc-4489-aa11-fb6f76bb037b",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/canvas/a11aa6b1-7c80-468c-bb73-cf07e87e5a23",
+        "body" : {
+          "id" : "https://VRCUCR.github.io/robadiroma/images/2015_022RobaRoma017/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 5206,
+          "width" : 4342,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 136,
+              "height" : 163
+            }, {
+              "width" : 272,
+              "height" : 326
+            }, {
+              "width" : 543,
+              "height" : 651
+            }, {
+              "width" : 1086,
+              "height" : 1302
+            }, {
+              "width" : 2171,
+              "height" : 2603
+            }, {
+              "width" : 4342,
+              "height" : 5206
+            } ],
+            "profile" : "level0",
+            "width" : 4342,
+            "id" : "https://VRCUCR.github.io/robadiroma/images/2015_022RobaRoma017",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 5206
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/canvas/a7630894-8284-4b41-bfed-a6f8304f9fa6",
+    "type" : "Canvas",
+    "height" : 4029,
+    "width" : 5783,
+    "label" : {
+      "en" : [ "018" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://github.com/VRCUCR/robadiroma/blob/main/images/2015_023RobaRoma018/0,0,5783,4029/362,252/0/default.jpg?raw=true",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 252,
+      "width" : 362
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/canvas/a7630894-8284-4b41-bfed-a6f8304f9fa6/annotation-page/f85c201d-518c-46f3-ac6a-5892ed716f3a",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/annotation/a567204e-e09d-4574-88a2-efc0201f28e8",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/canvas/a7630894-8284-4b41-bfed-a6f8304f9fa6",
+        "body" : {
+          "id" : "https://VRCUCR.github.io/robadiroma/images/2015_023RobaRoma018/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 4029,
+          "width" : 5783,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 181,
+              "height" : 126
+            }, {
+              "width" : 362,
+              "height" : 252
+            }, {
+              "width" : 723,
+              "height" : 504
+            }, {
+              "width" : 1446,
+              "height" : 1008
+            }, {
+              "width" : 2892,
+              "height" : 2015
+            }, {
+              "width" : 5783,
+              "height" : 4029
+            } ],
+            "profile" : "level0",
+            "width" : 5783,
+            "id" : "https://VRCUCR.github.io/robadiroma/images/2015_023RobaRoma018",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 4029
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/canvas/8ea1b26a-ad42-47b5-bf0c-1faa52fc4f36",
+    "type" : "Canvas",
+    "height" : 4141,
+    "width" : 6091,
+    "label" : {
+      "en" : [ "019" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://github.com/VRCUCR/robadiroma/blob/main/images/2015_024RobaRoma019/0,0,6091,4141/381,259/0/default.jpg?raw=true",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 259,
+      "width" : 381
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/canvas/8ea1b26a-ad42-47b5-bf0c-1faa52fc4f36/annotation-page/88e450a6-8668-4b68-b81a-198f21b52df4",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/annotation/0254cb0e-947f-4634-a55a-0ba856e9b0c6",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/canvas/8ea1b26a-ad42-47b5-bf0c-1faa52fc4f36",
+        "body" : {
+          "id" : "https://VRCUCR.github.io/robadiroma/images/2015_024RobaRoma019/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 4141,
+          "width" : 6091,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 191,
+              "height" : 130
+            }, {
+              "width" : 381,
+              "height" : 259
+            }, {
+              "width" : 762,
+              "height" : 518
+            }, {
+              "width" : 1523,
+              "height" : 1036
+            }, {
+              "width" : 3046,
+              "height" : 2071
+            }, {
+              "width" : 6091,
+              "height" : 4141
+            } ],
+            "profile" : "level0",
+            "width" : 6091,
+            "id" : "https://VRCUCR.github.io/robadiroma/images/2015_024RobaRoma019",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 4141
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/canvas/9a6fa594-3f69-4237-bdb9-3b2e642c5a72",
+    "type" : "Canvas",
+    "height" : 3576,
+    "width" : 5891,
+    "label" : {
+      "en" : [ "020" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://github.com/VRCUCR/robadiroma/blob/main/images/2015_025RobaRoma020/0,0,5891,3576/369,224/0/default.jpg?raw=true",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 224,
+      "width" : 369
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/canvas/9a6fa594-3f69-4237-bdb9-3b2e642c5a72/annotation-page/59535118-d070-4cee-9385-7dc7d61912b8",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/annotation/ebc2c253-4bb0-442d-b732-2dce7df7cd30",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/canvas/9a6fa594-3f69-4237-bdb9-3b2e642c5a72",
+        "body" : {
+          "id" : "https://VRCUCR.github.io/robadiroma/images/2015_025RobaRoma020/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 3576,
+          "width" : 5891,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 185,
+              "height" : 112
+            }, {
+              "width" : 369,
+              "height" : 224
+            }, {
+              "width" : 737,
+              "height" : 447
+            }, {
+              "width" : 1473,
+              "height" : 894
+            }, {
+              "width" : 2946,
+              "height" : 1788
+            }, {
+              "width" : 5891,
+              "height" : 3576
+            } ],
+            "profile" : "level0",
+            "width" : 5891,
+            "id" : "https://VRCUCR.github.io/robadiroma/images/2015_025RobaRoma020",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 3576
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/canvas/f393c067-982d-4c26-8c4b-2617c1b605ee",
+    "type" : "Canvas",
+    "height" : 5482,
+    "width" : 4398,
+    "label" : {
+      "en" : [ "021" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://github.com/VRCUCR/robadiroma/blob/main/images/2015_026RobaRoma021/0,0,4398,5482/275,343/0/default.jpg?raw=true",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 343,
+      "width" : 275
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/canvas/f393c067-982d-4c26-8c4b-2617c1b605ee/annotation-page/8fcd1031-edcc-4ecd-9e46-b4755d0f50e6",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/annotation/dca9c0b9-a8c9-4bee-94d2-62e3343f5b0a",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/canvas/f393c067-982d-4c26-8c4b-2617c1b605ee",
+        "body" : {
+          "id" : "https://VRCUCR.github.io/robadiroma/images/2015_026RobaRoma021/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 5482,
+          "width" : 4398,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 138,
+              "height" : 172
+            }, {
+              "width" : 275,
+              "height" : 343
+            }, {
+              "width" : 550,
+              "height" : 686
+            }, {
+              "width" : 1100,
+              "height" : 1371
+            }, {
+              "width" : 2199,
+              "height" : 2741
+            }, {
+              "width" : 4398,
+              "height" : 5482
+            } ],
+            "profile" : "level0",
+            "width" : 4398,
+            "id" : "https://VRCUCR.github.io/robadiroma/images/2015_026RobaRoma021",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 5482
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/canvas/3c20159c-75e5-4526-8464-b8998d7e6d88",
+    "type" : "Canvas",
+    "height" : 5784,
+    "width" : 4132,
+    "label" : {
+      "en" : [ "022" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://github.com/VRCUCR/robadiroma/blob/main/images/2015_027RobaRoma022/0,0,4132,5784/259,362/0/default.jpg?raw=true",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 362,
+      "width" : 259
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/canvas/3c20159c-75e5-4526-8464-b8998d7e6d88/annotation-page/a6276a57-c405-4209-83f7-0a2d1cdf4dac",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/annotation/bf46275c-98b0-4467-a66a-80ed4dbb7e48",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/canvas/3c20159c-75e5-4526-8464-b8998d7e6d88",
+        "body" : {
+          "id" : "https://VRCUCR.github.io/robadiroma/images/2015_027RobaRoma022/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 5784,
+          "width" : 4132,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 130,
+              "height" : 181
+            }, {
+              "width" : 259,
+              "height" : 362
+            }, {
+              "width" : 517,
+              "height" : 723
+            }, {
+              "width" : 1033,
+              "height" : 1446
+            }, {
+              "width" : 2066,
+              "height" : 2892
+            }, {
+              "width" : 4132,
+              "height" : 5784
+            } ],
+            "profile" : "level0",
+            "width" : 4132,
+            "id" : "https://VRCUCR.github.io/robadiroma/images/2015_027RobaRoma022",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 5784
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/canvas/bce098ae-b84b-4420-becc-9915d833c1d5",
+    "type" : "Canvas",
+    "height" : 5232,
+    "width" : 3581,
+    "label" : {
+      "en" : [ "023" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://github.com/VRCUCR/robadiroma/blob/main/images/2015_023RobaRoma018/0,0,5783,4029/362,252/0/default.jpg?raw=true",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 252,
+      "width" : 362
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/canvas/bce098ae-b84b-4420-becc-9915d833c1d5/annotation-page/fe031d70-b5a5-48ca-96b0-37f6d86dcbe1",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/annotation/34beedee-b631-4812-8ff7-78ce54ba9628",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/canvas/bce098ae-b84b-4420-becc-9915d833c1d5",
+        "body" : {
+          "id" : "https://VRCUCR.github.io/robadiroma/images/2015_028RobaRoma023/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 5232,
+          "width" : 3581,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 112,
+              "height" : 164
+            }, {
+              "width" : 224,
+              "height" : 327
+            }, {
+              "width" : 448,
+              "height" : 654
+            }, {
+              "width" : 896,
+              "height" : 1308
+            }, {
+              "width" : 1791,
+              "height" : 2616
+            }, {
+              "width" : 3581,
+              "height" : 5232
+            } ],
+            "profile" : "level0",
+            "width" : 3581,
+            "id" : "https://VRCUCR.github.io/robadiroma/images/2015_028RobaRoma023",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 5232
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/canvas/402a5997-8a8e-449b-8fff-43cfa0953bce",
+    "type" : "Canvas",
+    "height" : 5940,
+    "width" : 3840,
+    "label" : {
+      "en" : [ "024" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://github.com/VRCUCR/robadiroma/blob/main/images/2015_029RobaRoma024/0,0,3840,5940/240,372/0/default.jpg?raw=true",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 372,
+      "width" : 240
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/canvas/402a5997-8a8e-449b-8fff-43cfa0953bce/annotation-page/e091e8a7-733e-4ee4-abdc-e3134ae28adf",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/annotation/33dfe57f-80ec-41df-9af3-7f1506888088",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/canvas/402a5997-8a8e-449b-8fff-43cfa0953bce",
+        "body" : {
+          "id" : "https://VRCUCR.github.io/robadiroma/images/2015_029RobaRoma024/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 5940,
+          "width" : 3840,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 120,
+              "height" : 186
+            }, {
+              "width" : 240,
+              "height" : 372
+            }, {
+              "width" : 480,
+              "height" : 743
+            }, {
+              "width" : 960,
+              "height" : 1485
+            }, {
+              "width" : 1920,
+              "height" : 2970
+            }, {
+              "width" : 3840,
+              "height" : 5940
+            } ],
+            "profile" : "level0",
+            "width" : 3840,
+            "id" : "https://VRCUCR.github.io/robadiroma/images/2015_029RobaRoma024",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 5940
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/canvas/dfc1be10-e345-4dd4-9040-af37d1b41f0e",
+    "type" : "Canvas",
+    "height" : 5425,
+    "width" : 3589,
+    "label" : {
+      "en" : [ "025" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://github.com/VRCUCR/robadiroma/blob/main/images/2015_025RobaRoma020/0,0,5891,3576/369,224/0/default.jpg?raw=true",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 224,
+      "width" : 369
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/canvas/dfc1be10-e345-4dd4-9040-af37d1b41f0e/annotation-page/3ae78df8-35f5-4fa8-b85f-5bd1043fe698",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/annotation/9633f418-dc2d-4bf9-8bfa-a2f0bb5ba24d",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/canvas/dfc1be10-e345-4dd4-9040-af37d1b41f0e",
+        "body" : {
+          "id" : "https://VRCUCR.github.io/robadiroma/images/2015_030RobaRoma025/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 5425,
+          "width" : 3589,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 113,
+              "height" : 170
+            }, {
+              "width" : 225,
+              "height" : 340
+            }, {
+              "width" : 449,
+              "height" : 679
+            }, {
+              "width" : 898,
+              "height" : 1357
+            }, {
+              "width" : 1795,
+              "height" : 2713
+            }, {
+              "width" : 3589,
+              "height" : 5425
+            } ],
+            "profile" : "level0",
+            "width" : 3589,
+            "id" : "https://VRCUCR.github.io/robadiroma/images/2015_030RobaRoma025",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 5425
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/canvas/052db580-20d6-42ec-8de9-8ea5c44641d0",
+    "type" : "Canvas",
+    "height" : 5935,
+    "width" : 3050,
+    "label" : {
+      "en" : [ "026" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://github.com/VRCUCR/robadiroma/blob/main/images/2015_031RobaRoma026/0,0,3050,5935/191,371/0/default.jpg?raw=true",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 371,
+      "width" : 191
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/canvas/052db580-20d6-42ec-8de9-8ea5c44641d0/annotation-page/166852c0-a254-4534-af80-6100dd922474",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/annotation/e0417a73-f7b0-496c-9a18-922ada65c4c6",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/canvas/052db580-20d6-42ec-8de9-8ea5c44641d0",
+        "body" : {
+          "id" : "https://VRCUCR.github.io/robadiroma/images/2015_031RobaRoma026/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 5935,
+          "width" : 3050,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 96,
+              "height" : 186
+            }, {
+              "width" : 191,
+              "height" : 371
+            }, {
+              "width" : 382,
+              "height" : 742
+            }, {
+              "width" : 763,
+              "height" : 1484
+            }, {
+              "width" : 1525,
+              "height" : 2968
+            }, {
+              "width" : 3050,
+              "height" : 5935
+            } ],
+            "profile" : "level0",
+            "width" : 3050,
+            "id" : "https://VRCUCR.github.io/robadiroma/images/2015_031RobaRoma026",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 5935
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/canvas/ac0baa28-ab21-4b7f-95b9-8b473d5e2535",
+    "type" : "Canvas",
+    "height" : 5938,
+    "width" : 4481,
+    "label" : {
+      "en" : [ "027" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://github.com/VRCUCR/robadiroma/blob/main/images/2015_032RobaRoma027/0,0,4481,5938/141,186/0/default.jpg?raw=true",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 186,
+      "width" : 141
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/canvas/ac0baa28-ab21-4b7f-95b9-8b473d5e2535/annotation-page/8992b26a-6fac-4921-bb68-5f015faa9462",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/annotation/cf6e70b5-a9e7-4697-9c17-b255b2d12f0c",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/canvas/ac0baa28-ab21-4b7f-95b9-8b473d5e2535",
+        "body" : {
+          "id" : "https://VRCUCR.github.io/robadiroma/images/2015_032RobaRoma027/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 5938,
+          "width" : 4481,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 141,
+              "height" : 186
+            }, {
+              "width" : 281,
+              "height" : 372
+            }, {
+              "width" : 561,
+              "height" : 743
+            }, {
+              "width" : 1121,
+              "height" : 1485
+            }, {
+              "width" : 2241,
+              "height" : 2969
+            }, {
+              "width" : 4481,
+              "height" : 5938
+            } ],
+            "profile" : "level0",
+            "width" : 4481,
+            "id" : "https://VRCUCR.github.io/robadiroma/images/2015_032RobaRoma027",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 5938
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/canvas/5a3b86d3-919f-4c38-b519-07a082f92a47",
+    "type" : "Canvas",
+    "height" : 5019,
+    "width" : 3827,
+    "label" : {
+      "en" : [ "028" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://github.com/VRCUCR/robadiroma/blob/main/images/2015_033RobaRoma028/0,0,3827,5019/240,314/0/default.jpg?raw=true",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 314,
+      "width" : 240
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/canvas/5a3b86d3-919f-4c38-b519-07a082f92a47/annotation-page/f9f66be0-4298-4405-9510-07c462892ac9",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/annotation/8737e3a1-afe0-4ce6-b4a8-c51b5dbe58af",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/canvas/5a3b86d3-919f-4c38-b519-07a082f92a47",
+        "body" : {
+          "id" : "https://VRCUCR.github.io/robadiroma/images/2015_033RobaRoma028/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 5019,
+          "width" : 3827,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 120,
+              "height" : 157
+            }, {
+              "width" : 240,
+              "height" : 314
+            }, {
+              "width" : 479,
+              "height" : 628
+            }, {
+              "width" : 957,
+              "height" : 1255
+            }, {
+              "width" : 1914,
+              "height" : 2510
+            }, {
+              "width" : 3827,
+              "height" : 5019
+            } ],
+            "profile" : "level0",
+            "width" : 3827,
+            "id" : "https://VRCUCR.github.io/robadiroma/images/2015_033RobaRoma028",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 5019
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/canvas/b1fc2500-f928-4043-b2e7-36159b322cb1",
+    "type" : "Canvas",
+    "height" : 4635,
+    "width" : 6002,
+    "label" : {
+      "en" : [ "029" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://github.com/VRCUCR/robadiroma/blob/main/images/2015_034RobaRoma029/0,0,6002,4635/188,145/0/default.jpg?raw=true",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 145,
+      "width" : 188
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/canvas/b1fc2500-f928-4043-b2e7-36159b322cb1/annotation-page/25fe3793-fd31-4ed8-b987-0f0930e724e8",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/annotation/2bbf8679-6556-415d-bba4-578c82e05c77",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/canvas/b1fc2500-f928-4043-b2e7-36159b322cb1",
+        "body" : {
+          "id" : "https://VRCUCR.github.io/robadiroma/images/2015_034RobaRoma029/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 4635,
+          "width" : 6002,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 188,
+              "height" : 145
+            }, {
+              "width" : 376,
+              "height" : 290
+            }, {
+              "width" : 751,
+              "height" : 580
+            }, {
+              "width" : 1501,
+              "height" : 1159
+            }, {
+              "width" : 3001,
+              "height" : 2318
+            }, {
+              "width" : 6002,
+              "height" : 4635
+            } ],
+            "profile" : "level0",
+            "width" : 6002,
+            "id" : "https://VRCUCR.github.io/robadiroma/images/2015_034RobaRoma029",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 4635
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/canvas/d574af0a-6307-4900-bf4f-515cea4b98e4",
+    "type" : "Canvas",
+    "height" : 6012,
+    "width" : 4542,
+    "label" : {
+      "en" : [ "030" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://github.com/VRCUCR/RobaRoma/blob/main/images/2015_035RobaRoma030/0,0,4542,6012/142,188/0/default.jpg?raw=true",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 188,
+      "width" : 142
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/canvas/d574af0a-6307-4900-bf4f-515cea4b98e4/annotation-page/fd1da9cd-fa04-4f75-a57e-9b285660d32e",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/annotation/c5b7b157-3ad3-4a24-b9de-1ed04bb71d25",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/canvas/d574af0a-6307-4900-bf4f-515cea4b98e4",
+        "body" : {
+          "id" : "https://VRCUCR.github.io/RobaRoma/images/2015_035RobaRoma030/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 6012,
+          "width" : 4542,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 142,
+              "height" : 188
+            }, {
+              "width" : 284,
+              "height" : 376
+            }, {
+              "width" : 568,
+              "height" : 752
+            }, {
+              "width" : 1136,
+              "height" : 1503
+            }, {
+              "width" : 2271,
+              "height" : 3006
+            }, {
+              "width" : 4542,
+              "height" : 6012
+            } ],
+            "profile" : "level0",
+            "width" : 4542,
+            "id" : "https://VRCUCR.github.io/RobaRoma/images/2015_035RobaRoma030",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 6012
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/canvas/7961d8e1-daba-41e6-9845-561cc3b2287f",
+    "type" : "Canvas",
+    "height" : 5217,
+    "width" : 3579,
+    "label" : {
+      "en" : [ "031" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://github.com/VRCUCR/robadiroma/blob/main/images/2015_036RobaRoma031/0,0,3579,5217/224,327/0/default.jpg?raw=true",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 327,
+      "width" : 224
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/canvas/7961d8e1-daba-41e6-9845-561cc3b2287f/annotation-page/0675ef66-3872-4a43-9dfe-3770776f6b97",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/annotation/c26b2536-67d8-4fd9-9df5-9ae930978828",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/canvas/7961d8e1-daba-41e6-9845-561cc3b2287f",
+        "body" : {
+          "id" : "https://VRCUCR.github.io/robadiroma/images/2015_036RobaRoma031/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 5217,
+          "width" : 3579,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 112,
+              "height" : 164
+            }, {
+              "width" : 224,
+              "height" : 327
+            }, {
+              "width" : 448,
+              "height" : 653
+            }, {
+              "width" : 895,
+              "height" : 1305
+            }, {
+              "width" : 1790,
+              "height" : 2609
+            }, {
+              "width" : 3579,
+              "height" : 5217
+            } ],
+            "profile" : "level0",
+            "width" : 3579,
+            "id" : "https://VRCUCR.github.io/robadiroma/images/2015_036RobaRoma031",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 5217
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/canvas/62d971c6-98c6-481c-a7a9-e51f8bcfa0d5",
+    "type" : "Canvas",
+    "height" : 5342,
+    "width" : 3538,
+    "label" : {
+      "en" : [ "032" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://github.com/VRCUCR/robadiroma/blob/main/images/2015_037RobaRoma032/0,0,3538,5342/222,334/0/default.jpg?raw=true",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 334,
+      "width" : 222
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/canvas/62d971c6-98c6-481c-a7a9-e51f8bcfa0d5/annotation-page/3f8bcad6-3e4d-4be3-860c-2bac955b7ea3",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/annotation/93f48e44-067d-402b-aa6b-8b9a6f6aeb00",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/canvas/62d971c6-98c6-481c-a7a9-e51f8bcfa0d5",
+        "body" : {
+          "id" : "https://VRCUCR.github.io/robadiroma/images/2015_037RobaRoma032/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 5342,
+          "width" : 3538,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 111,
+              "height" : 167
+            }, {
+              "width" : 222,
+              "height" : 334
+            }, {
+              "width" : 443,
+              "height" : 668
+            }, {
+              "width" : 885,
+              "height" : 1336
+            }, {
+              "width" : 1769,
+              "height" : 2671
+            }, {
+              "width" : 3538,
+              "height" : 5342
+            } ],
+            "profile" : "level0",
+            "width" : 3538,
+            "id" : "https://VRCUCR.github.io/robadiroma/images/2015_037RobaRoma032",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 5342
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/canvas/5d44b44d-9654-48d8-9dae-4f38434bbbc5",
+    "type" : "Canvas",
+    "height" : 3731,
+    "width" : 3619,
+    "label" : {
+      "en" : [ "033" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://github.com/VRCUCR/robadiroma/blob/main/images/2015_038RobaRoma033/0,0,3619,3731/227,234/0/default.jpg?raw=true",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 234,
+      "width" : 227
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/canvas/5d44b44d-9654-48d8-9dae-4f38434bbbc5/annotation-page/52b5b1c0-6948-40a1-86a8-129b73e07d17",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/annotation/be3cc5b3-0ecd-489e-9c51-2fd016ca8583",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/canvas/5d44b44d-9654-48d8-9dae-4f38434bbbc5",
+        "body" : {
+          "id" : "https://VRCUCR.github.io/robadiroma/images/2015_038RobaRoma033/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 3731,
+          "width" : 3619,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 114,
+              "height" : 117
+            }, {
+              "width" : 227,
+              "height" : 234
+            }, {
+              "width" : 453,
+              "height" : 467
+            }, {
+              "width" : 905,
+              "height" : 933
+            }, {
+              "width" : 1810,
+              "height" : 1866
+            }, {
+              "width" : 3619,
+              "height" : 3731
+            } ],
+            "profile" : "level0",
+            "width" : 3619,
+            "id" : "https://VRCUCR.github.io/robadiroma/images/2015_038RobaRoma033",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 3731
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/canvas/580f8481-a4ca-40e8-8c8f-38864f2c717c",
+    "type" : "Canvas",
+    "height" : 3472,
+    "width" : 4996,
+    "label" : {
+      "en" : [ "034" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://github.com/VRCUCR/robadiroma/blob/main/images/2015_039RobaRoma034/0,0,4996,3472/313,217/0/default.jpg?raw=true",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 217,
+      "width" : 313
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/canvas/580f8481-a4ca-40e8-8c8f-38864f2c717c/annotation-page/7239eef5-2be6-4aab-a96e-2975a68b130e",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/annotation/1ab92cf0-45af-49ff-ac15-f80d21b18673",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/canvas/580f8481-a4ca-40e8-8c8f-38864f2c717c",
+        "body" : {
+          "id" : "https://VRCUCR.github.io/robadiroma/images/2015_039RobaRoma034/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 3472,
+          "width" : 4996,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 157,
+              "height" : 109
+            }, {
+              "width" : 313,
+              "height" : 217
+            }, {
+              "width" : 625,
+              "height" : 434
+            }, {
+              "width" : 1249,
+              "height" : 868
+            }, {
+              "width" : 2498,
+              "height" : 1736
+            }, {
+              "width" : 4996,
+              "height" : 3472
+            } ],
+            "profile" : "level0",
+            "width" : 4996,
+            "id" : "https://VRCUCR.github.io/robadiroma/images/2015_039RobaRoma034",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 3472
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/canvas/5012015c-c28f-45a8-9076-a52d2e06c635",
+    "type" : "Canvas",
+    "height" : 3335,
+    "width" : 3722,
+    "label" : {
+      "en" : [ "035" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://github.com/VRCUCR/robadiroma/blob/main/images/2015_040RobaRoma035/0,0,3722,3335/233,209/0/default.jpg?raw=true",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 209,
+      "width" : 233
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/canvas/5012015c-c28f-45a8-9076-a52d2e06c635/annotation-page/f3acdfbc-cfe7-492e-ae20-be6c604c2aee",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/annotation/9517e31e-1fd2-4a8f-813b-92e62444e0d1",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/canvas/5012015c-c28f-45a8-9076-a52d2e06c635",
+        "body" : {
+          "id" : "https://VRCUCR.github.io/robadiroma/images/2015_040RobaRoma035/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 3335,
+          "width" : 3722,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 117,
+              "height" : 105
+            }, {
+              "width" : 233,
+              "height" : 209
+            }, {
+              "width" : 466,
+              "height" : 417
+            }, {
+              "width" : 931,
+              "height" : 834
+            }, {
+              "width" : 1861,
+              "height" : 1668
+            }, {
+              "width" : 3722,
+              "height" : 3335
+            } ],
+            "profile" : "level0",
+            "width" : 3722,
+            "id" : "https://VRCUCR.github.io/robadiroma/images/2015_040RobaRoma035",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 3335
+          } ]
+        }
+      } ]
+    } ]
+  } ]
+}
