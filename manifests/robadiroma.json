@@ -5,14 +5,79 @@
   "label" : {
     "en" : [ "Roba di Roma" ]
   },
+  "summary" : {
+    "en" : [ "Roma di Roma [album], c. late 1850s-1860s" ]
+  },
   "items" : [ {
     "id" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/canvas/7b10075e-dd5d-461e-9450-6a33cd6f876e",
     "type" : "Canvas",
     "height" : 3072,
     "width" : 1751,
     "label" : {
-      "en" : [ "001" ]
+      "en" : [ "Pudicitia by Giacomo Brogi, Vatican City" ]
     },
+    "metadata" : [ {
+      "label" : {
+        "en" : [ "Artist/Maker" ]
+      },
+      "value" : {
+        "en" : [ "James Anderson (English photographer, 1813-1877, active in Italy)" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Title" ]
+      },
+      "value" : {
+        "en" : [ "Pudicitia by Giacomo Brogi, Vatican City" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Date" ]
+      },
+      "value" : {
+        "en" : [ "c. 1845-1855" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Material" ]
+      },
+      "value" : {
+        "en" : [ "Albumen print laid onto original publisher’s thin card mount", "" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Measurements" ]
+      },
+      "value" : {
+        "en" : [ "Image: 24.7 x 14 cm", "Mount: " ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Repository" ]
+      },
+      "value" : {
+        "en" : [ "Visual Resource Collection, Department of Art History, University of California, Riverside" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Accession Number" ]
+      },
+      "value" : {
+        "en" : [ "2015.006" ]
+      }
+    } ],
+    "summary" : {
+      "en" : [ "Roma di Roma [album], c. late 1850s-1860s" ]
+    },
+    "requiredStatement" : {
+      "label" : {
+        "en" : [ "Label Option" ]
+      },
+      "value" : {
+        "en" : [ "Value Option" ]
+      }
+    },
+    "rights" : "No Copyright - Contractual Restrictions",
     "thumbnail" : [ {
       "id" : "https://github.com/VRCUCR/robadiroma/blob/main/images/2015_006RobaRoma001/0,0,1751,3072/110,192/0/default.jpg?raw=true",
       "type" : "Image",
@@ -76,8 +141,58 @@
     "height" : 3072,
     "width" : 2065,
     "label" : {
-      "en" : [ "002" ]
+      "en" : [ "Meleager; 2nd century Roman copy of mid-4th century BCE Greek original, Vatican City" ]
     },
+    "metadata" : [ {
+      "label" : {
+        "en" : [ "Artist/Maker" ]
+      },
+      "value" : {
+        "en" : [ "possibly by James Anderson (English photographer, 1813-1877, active in Italy)" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Title" ]
+      },
+      "value" : {
+        "en" : [ "Meleager; 2nd century Roman copy of mid-4th century BCE Greek original, Vatican City" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Date" ]
+      },
+      "value" : {
+        "en" : [ "1852-1855" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Materials" ]
+      },
+      "value" : {
+        "en" : [ "Albumen print laid onto original publisher’s thin card mount" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Measurements" ]
+      },
+      "value" : {
+        "en" : [ "25.5 x 17 cm" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Repository" ]
+      },
+      "value" : {
+        "en" : [ "Visual Resource Collection, Department of Art History, University of California, Riverside", "" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Accession Number" ]
+      },
+      "value" : {
+        "en" : [ "2015.007" ]
+      }
+    } ],
     "thumbnail" : [ {
       "id" : "https://github.com/VRCUCR/robadiroma/blob/main/images/2015_007RobaRoma002/0,0,2065,3072/130,192/0/default.jpg?raw=true",
       "type" : "Image",
@@ -141,8 +256,51 @@
     "height" : 2268,
     "width" : 3072,
     "label" : {
-      "en" : [ "003" ]
+      "en" : [ "[Foro Romano], c. 1860" ]
     },
+    "metadata" : [ {
+      "label" : {
+        "en" : [ "Artist/Maker" ]
+      },
+      "value" : {
+        "en" : [ "possibly by Robert Macpherson (Scottish photographer and painter, ca. 1815-1872, active in Italy)" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Title" ]
+      },
+      "value" : {
+        "en" : [ "[Foro Romano]" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Date" ]
+      },
+      "value" : {
+        "en" : [ "c. 1860" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Materials" ]
+      },
+      "value" : {
+        "en" : [ "Albumen print laid onto original publisher’s thin card mount" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Measurements" ]
+      },
+      "value" : {
+        "en" : [ "28.3 x 38 cm" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Repository" ]
+      },
+      "value" : {
+        "en" : [ "Visual Resource Collection, Department of Art History, University of California, Riverside" ]
+      }
+    } ],
     "thumbnail" : [ {
       "id" : "https://github.com/VRCUCR/robadiroma/blob/main/images/2015_008RobaRoma003/0,0,3072,2268/192,142/0/default.jpg?raw=true",
       "type" : "Image",
