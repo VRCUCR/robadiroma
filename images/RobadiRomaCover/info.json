@@ -1,0 +1,33 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 117,
+    "height" : 81
+  }, {
+    "width" : 233,
+    "height" : 162
+  }, {
+    "width" : 466,
+    "height" : 324
+  }, {
+    "width" : 932,
+    "height" : 648
+  }, {
+    "width" : 1863,
+    "height" : 1296
+  }, {
+    "width" : 3726,
+    "height" : 2592
+  } ],
+  "profile" : "level0",
+  "width" : 3726,
+  "id" : "https://VRCUCR.github.io/robadiroma/images/RobadiRomaCover",
+  "type" : "ImageService3",
+  "@context" : "http://iiif.io/api/image/3/context.json",
+  "height" : 2592
+}
