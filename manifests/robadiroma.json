@@ -8,13 +8,188 @@
   "summary" : {
     "en" : [ "Roma di Roma [album], c. late 1850s-1860s" ]
   },
+  "requiredStatement" : {
+    "label" : {
+      "en" : [ "No Copyright - Contractual Restrictions" ]
+    },
+    "value" : {
+      "en" : [ "CC BY-NC-SA 4.0" ]
+    }
+  },
+  "rights" : "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "thumbnail" : [ {
+    "id" : "https://github.com/VRCUCR/robadiroma/blob/main/images/RobadiRomaCover/0,0,3726,2592/466,324/0/default.jpg?raw=true",
+    "type" : "Image",
+    "format" : "image/jpeg",
+    "height" : 324,
+    "width" : 466
+  } ],
   "items" : [ {
+    "id" : "https://VRCUCR.github.io/robadiroma/manifests/robadiroma.json/canvas/0be11eb2-8c54-4f67-aa02-def0f495481a",
+    "type" : "Canvas",
+    "height" : 2592,
+    "width" : 3726,
+    "label" : {
+      "en" : [ "Roba di Roma" ]
+    },
+    "metadata" : [ {
+      "label" : {
+        "en" : [ "Artist/Maker" ]
+      },
+      "value" : {
+        "en" : [ "James Anderson (English photographer, 1813-1877, active in Italy)", "Joseph Spithöver (German photographer and publisher, active 19th century in Rome)", "Robert Macpherson (Scottish photographer and painter, ca. 1815-1872, active in Italy)", "Unknown Maker" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Title" ]
+      },
+      "value" : {
+        "en" : [ "Roma di Roma [album]" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Date" ]
+      },
+      "value" : {
+        "en" : [ "c. late 1850s-1860s" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Inscription" ]
+      },
+      "value" : {
+        "en" : [ "(Verso front cover) center, black printed text on bookplate: \" A JAIMAS/ EX LIBRIS/ GEORGE ABBOT JAMES.\"; top left corner, patch: \"L'OLIVIERI/ Legatore di Libri/ ROMA.\"" ]
+      }
+    } ],
+    "thumbnail" : [ {
+      "id" : "https://github.com/VRCUCR/robadiroma/blob/main/images/RobadiRomaCover/0,0,3726,2592/233,162/0/default.jpg?raw=true",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 162,
+      "width" : 233
+    } ],
+    "items" : [ {
+      "id" : "https://VRCUCR.github.io/robadiroma/manifests/robadiroma.json/canvas/0be11eb2-8c54-4f67-aa02-def0f495481a/annotation-page/bedfa0a8-17cb-45d8-8413-b32f1310118c",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://VRCUCR.github.io/robadiroma/manifests/robadiroma.json/annotation/38f68079-ba17-46fb-92bf-0cb4b8774148",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://VRCUCR.github.io/robadiroma/manifests/robadiroma.json/canvas/0be11eb2-8c54-4f67-aa02-def0f495481a",
+        "body" : {
+          "id" : "https://VRCUCR.github.io/robadiroma/images/RobadiRomaCover/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 2592,
+          "width" : 3726,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 117,
+              "height" : 81
+            }, {
+              "width" : 233,
+              "height" : 162
+            }, {
+              "width" : 466,
+              "height" : 324
+            }, {
+              "width" : 932,
+              "height" : 648
+            }, {
+              "width" : 1863,
+              "height" : 1296
+            }, {
+              "width" : 3726,
+              "height" : 2592
+            } ],
+            "profile" : "level0",
+            "width" : 3726,
+            "id" : "https://VRCUCR.github.io/robadiroma/images/RobadiRomaCover",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 2592
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://VRCUCR.github.io/robadiroma/manifests/robadiroma.json/canvas/615bc841-6508-4469-8154-36f7e51faf14",
+    "type" : "Canvas",
+    "height" : 2484,
+    "width" : 3495,
+    "label" : {
+      "en" : [ "Verso cover" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://github.com/VRCUCR/robadiroma/blob/main/images/RobadiRomainsidecover/0,0,3495,2484/219,156/0/default.jpg?raw=true",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 156,
+      "width" : 219
+    } ],
+    "items" : [ {
+      "id" : "https://VRCUCR.github.io/robadiroma/manifests/robadiroma.json/canvas/615bc841-6508-4469-8154-36f7e51faf14/annotation-page/03281d88-ee52-4a42-be13-7a8444cdf943",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://VRCUCR.github.io/robadiroma/manifests/robadiroma.json/annotation/7aeabadb-1032-44f1-8f41-475e4d9239ec",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://VRCUCR.github.io/robadiroma/manifests/robadiroma.json/canvas/615bc841-6508-4469-8154-36f7e51faf14",
+        "body" : {
+          "id" : "https://VRCUCR.github.io/robadiroma/images/RobadiRomainsidecover/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 2484,
+          "width" : 3495,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 110,
+              "height" : 78
+            }, {
+              "width" : 219,
+              "height" : 156
+            }, {
+              "width" : 437,
+              "height" : 311
+            }, {
+              "width" : 874,
+              "height" : 621
+            }, {
+              "width" : 1748,
+              "height" : 1242
+            }, {
+              "width" : 3495,
+              "height" : 2484
+            } ],
+            "profile" : "level0",
+            "width" : 3495,
+            "id" : "https://VRCUCR.github.io/robadiroma/images/RobadiRomainsidecover",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 2484
+          } ]
+        }
+      } ]
+    } ]
+  }, {
     "id" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/canvas/7b10075e-dd5d-461e-9450-6a33cd6f876e",
     "type" : "Canvas",
     "height" : 3072,
     "width" : 1751,
     "label" : {
-      "en" : [ "Pudicitia by Giacomo Brogi, Vatican City" ]
+      "en" : [ "Pudicitia by Giacomo Brogi, Vatican, c. 1845-1855" ]
     },
     "metadata" : [ {
       "label" : {
@@ -28,7 +203,7 @@
         "en" : [ "Title" ]
       },
       "value" : {
-        "en" : [ "Pudicitia by Giacomo Brogi, Vatican City" ]
+        "en" : [ "Pudicitia by Giacomo Brogi, Vatican" ]
       }
     }, {
       "label" : {
@@ -36,6 +211,13 @@
       },
       "value" : {
         "en" : [ "c. 1845-1855" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Image Description" ]
+      },
+      "value" : {
+        "en" : [ "part of: Roma di Roma [album], c. late 1850s-1860s" ]
       }
     }, {
       "label" : {
@@ -49,7 +231,7 @@
         "en" : [ "Measurements" ]
       },
       "value" : {
-        "en" : [ "Image: 24.7 x 14 cm", "Mount: " ]
+        "en" : [ "Image: 24.7 x 14 cm", "Mount: 30.5 x 38.6 cm" ]
       }
     }, {
       "label" : {
@@ -70,14 +252,14 @@
       "en" : [ "Roma di Roma [album], c. late 1850s-1860s" ]
     },
     "requiredStatement" : {
-      "label" : {
-        "en" : [ "Label Option" ]
-      },
       "value" : {
-        "en" : [ "Value Option" ]
+        "en" : [ "CC BY-NC-SA 4.0" ]
+      },
+      "label" : {
+        "en" : [ "No Copyright - Contractual RestrictionsOption" ]
       }
     },
-    "rights" : "No Copyright - Contractual Restrictions",
+    "rights" : "http://creativecommons.org/licenses/by-nc-sa/4.0/",
     "thumbnail" : [ {
       "id" : "https://github.com/VRCUCR/robadiroma/blob/main/images/2015_006RobaRoma001/0,0,1751,3072/110,192/0/default.jpg?raw=true",
       "type" : "Image",
@@ -141,7 +323,7 @@
     "height" : 3072,
     "width" : 2065,
     "label" : {
-      "en" : [ "Meleager; 2nd century Roman copy of mid-4th century BCE Greek original, Vatican City" ]
+      "en" : [ "Meleager, second century Roman copy of mid-fourth century BCE Greek original, Vatican City, c. 1852-1855" ]
     },
     "metadata" : [ {
       "label" : {
@@ -155,7 +337,7 @@
         "en" : [ "Title" ]
       },
       "value" : {
-        "en" : [ "Meleager; 2nd century Roman copy of mid-4th century BCE Greek original, Vatican City" ]
+        "en" : [ "Meleager, second century Roman copy of mid-fourth century BCE Greek original, Vatican City" ]
       }
     }, {
       "label" : {
@@ -163,6 +345,13 @@
       },
       "value" : {
         "en" : [ "1852-1855" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Image Description" ]
+      },
+      "value" : {
+        "en" : [ "part of: Roma di Roma [album], c. late 1850s-1860s" ]
       }
     }, {
       "label" : {
@@ -176,7 +365,7 @@
         "en" : [ "Measurements" ]
       },
       "value" : {
-        "en" : [ "25.5 x 17 cm" ]
+        "en" : [ "Image: 25.5 x 17 cm", "Mount: 30.5 x 38.6 cm" ]
       }
     }, {
       "label" : {
@@ -291,7 +480,7 @@
         "en" : [ "Measurements" ]
       },
       "value" : {
-        "en" : [ "28.3 x 38 cm" ]
+        "en" : [ "Image: 28.3 x 38 cm", "Mount: 30.5 x 38.6 cm" ]
       }
     }, {
       "label" : {
@@ -299,6 +488,13 @@
       },
       "value" : {
         "en" : [ "Visual Resource Collection, Department of Art History, University of California, Riverside" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Accession Number" ]
+      },
+      "value" : {
+        "en" : [ "2015.008" ]
       }
     } ],
     "thumbnail" : [ {
@@ -364,8 +560,65 @@
     "height" : 2085,
     "width" : 3072,
     "label" : {
-      "en" : [ "004" ]
+      "en" : [ "Saint Peter's Basilica, Rome, c. 1859" ]
     },
+    "metadata" : [ {
+      "label" : {
+        "en" : [ "Artist/Maker" ]
+      },
+      "value" : {
+        "en" : [ "probably by James Anderson (English photographer, 1813-1877, active in Italy)" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Title" ]
+      },
+      "value" : {
+        "en" : [ "Saint Peter's Basilica, Rome" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Date" ]
+      },
+      "value" : {
+        "en" : [ "c. 1859" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Image Description" ]
+      },
+      "value" : {
+        "en" : [ "part of: Roma di Roma [album], c. late 1850s-1860s" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Materials" ]
+      },
+      "value" : {
+        "en" : [ "Albumen print laid onto original publisher’s thin card mount" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Measurements" ]
+      },
+      "value" : {
+        "en" : [ "Image: 17.9 x 26.5 cm", "Mount: 30.5 x 38.6 cm" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Repository" ]
+      },
+      "value" : {
+        "en" : [ "Visual Resource Collection, Department of Art History, University of California, Riverside" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Accession Number" ]
+      },
+      "value" : {
+        "en" : [ "2015.009" ]
+      }
+    } ],
     "thumbnail" : [ {
       "id" : "https://github.com/VRCUCR/robadiroma/blob/main/images/2015_009RobaRoma004/0,0,3072,2085/192,131/0/default.jpg?raw=true",
       "type" : "Image",
@@ -429,8 +682,58 @@
     "height" : 4510,
     "width" : 6175,
     "label" : {
-      "en" : [ "005" ]
+      "en" : [ "Roman Forum with a View of the Temple of Saturn in foreground and Arch of Titus in background" ]
     },
+    "metadata" : [ {
+      "label" : {
+        "en" : [ "Artist/Maker" ]
+      },
+      "value" : {
+        "en" : [ "Unidentified" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Title" ]
+      },
+      "value" : {
+        "en" : [ "Roman Forum with a View of the Temple of Saturn in foreground and Arch of Titus in background" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Date" ]
+      },
+      "value" : {
+        "en" : [ "Unknown" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Materials" ]
+      },
+      "value" : {
+        "en" : [ "Albumen print laid onto original publisher’s thin card mount" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Measurements" ]
+      },
+      "value" : {
+        "en" : [ "Image: 19.4 x 26.4 cm", "Mount: 30,5 x 38.7 cm" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Repository" ]
+      },
+      "value" : {
+        "en" : [ "Visual Resource Collection, Department of Art History, University of California, Riverside" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Accession Number" ]
+      },
+      "value" : {
+        "en" : [ "2015.010" ]
+      }
+    } ],
     "thumbnail" : [ {
       "id" : "https://github.com/VRCUCR/robadiroma/blob/main/images/2015_010RobaRoma005/0,0,6175,4510/193,141/0/default.jpg?raw=true",
       "type" : "Image",
@@ -494,8 +797,65 @@
     "height" : 3247,
     "width" : 4112,
     "label" : {
-      "en" : [ "006" ]
+      "en" : [ "Castel Sant'Angelo, c. 1855" ]
     },
+    "metadata" : [ {
+      "label" : {
+        "en" : [ "Artist/Maker" ]
+      },
+      "value" : {
+        "en" : [ "Unidentified" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Title" ]
+      },
+      "value" : {
+        "en" : [ "Castel Sant'Angelo" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Date" ]
+      },
+      "value" : {
+        "en" : [ "c. 1855" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Image Description" ]
+      },
+      "value" : {
+        "en" : [ "part of: Roma di Roma [album], c. late 1850s-1860s" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Materials" ]
+      },
+      "value" : {
+        "en" : [ "Albumen print laid onto original publisher’s thin card mount" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Measurements" ]
+      },
+      "value" : {
+        "en" : [ "Image: 20.9 x 26.4 cm", "Mount: 30.5 x 38.7 cm" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Repository" ]
+      },
+      "value" : {
+        "en" : [ "Visual Resource Collection, Department of Art History, University of California, Riverside" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Accession Number" ]
+      },
+      "value" : {
+        "en" : [ "2015.011" ]
+      }
+    } ],
     "thumbnail" : [ {
       "id" : "https://github.com/VRCUCR/robadiroma/blob/main/images/2015_011RobaRoma006/0,0,4112,3247/129,102/0/default.jpg?raw=true",
       "type" : "Image",
