@@ -10,10 +10,10 @@
   },
   "requiredStatement" : {
     "label" : {
-      "en" : [ "No Copyright - Contractual Restrictions" ]
+      "en" : [ "No Copyright" ]
     },
     "value" : {
-      "en" : [ "CC BY-NC-SA 4.0" ]
+      "en" : [ "Contractual Restrictions", "CC BY-NC-SA 4.0" ]
     }
   },
   "rights" : "http://creativecommons.org/licenses/by-nc-sa/4.0/",
@@ -30,7 +30,7 @@
     "height" : 2592,
     "width" : 3726,
     "label" : {
-      "en" : [ "Roba di Roma" ]
+      "en" : [ "Roma di Roma [album], c. late 1850s-1860s" ]
     },
     "metadata" : [ {
       "label" : {
@@ -125,6 +125,17 @@
     "width" : 3495,
     "label" : {
       "en" : [ "Verso cover" ]
+    },
+    "metadata" : [ {
+      "label" : {
+        "en" : [ "Roma di Roma [album], c. late 1850s-1860s" ]
+      },
+      "value" : {
+        "en" : [ "Verso cover" ]
+      }
+    } ],
+    "summary" : {
+      "en" : [ "" ]
     },
     "thumbnail" : [ {
       "id" : "https://github.com/VRCUCR/robadiroma/blob/main/images/RobadiRomainsidecover/0,0,3495,2484/219,156/0/default.jpg?raw=true",
@@ -470,6 +481,13 @@
       }
     }, {
       "label" : {
+        "en" : [ "Image Description" ]
+      },
+      "value" : {
+        "en" : [ "part of: Roma di Roma [album], c. late 1850s-1860s" ]
+      }
+    }, {
+      "label" : {
         "en" : [ "Materials" ]
       },
       "value" : {
@@ -689,7 +707,7 @@
         "en" : [ "Artist/Maker" ]
       },
       "value" : {
-        "en" : [ "Unidentified" ]
+        "en" : [ "Unknown Photographer" ]
       }
     }, {
       "label" : {
@@ -704,6 +722,13 @@
       },
       "value" : {
         "en" : [ "Unknown" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Image Description" ]
+      },
+      "value" : {
+        "en" : [ "part of: Roma di Roma [album], c. late 1850s-1860s" ]
       }
     }, {
       "label" : {
@@ -919,8 +944,65 @@
     "height" : 3108,
     "width" : 4053,
     "label" : {
-      "en" : [ "007" ]
+      "en" : [ "The façade of the Pantheon and the Obelisk of Ramses II in Piazza della Rotonda, Rome, c. 1870" ]
     },
+    "metadata" : [ {
+      "label" : {
+        "en" : [ "Artist/Maker" ]
+      },
+      "value" : {
+        "en" : [ "James Anderson (English photographer, 1813-1877, active in Italy)" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Title" ]
+      },
+      "value" : {
+        "en" : [ "The façade of the Pantheon and the Obelisk of Ramses II in Piazza della Rotonda, Rome" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Date" ]
+      },
+      "value" : {
+        "en" : [ "c. 1870" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Image Description" ]
+      },
+      "value" : {
+        "en" : [ "part of: Roma di Roma [album], c. late 1850s-1860s" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Materials" ]
+      },
+      "value" : {
+        "en" : [ "Albumen print laid onto original publisher’s thin card mount" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Measurements" ]
+      },
+      "value" : {
+        "en" : [ "Image: 19.8 x 26 cm", "Mount: 30.5 x 38.7 cm" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Repository" ]
+      },
+      "value" : {
+        "en" : [ "Visual Resource Collection, Department of Art History, University of California, Riverside" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Accession Number" ]
+      },
+      "value" : {
+        "en" : [ "2015.12" ]
+      }
+    } ],
     "thumbnail" : [ {
       "id" : "https://github.com/VRCUCR/robadiroma/blob/main/images/2015_012RobaRoma007/0,0,4053,3108/254,195/0/default.jpg?raw=true",
       "type" : "Image",
@@ -984,8 +1066,65 @@
     "height" : 4223,
     "width" : 5939,
     "label" : {
-      "en" : [ "008" ]
+      "en" : [ "Base of the obelisk with the Fountain of Monte Cavallo, Piazza del Quirinale, Rome, c. 1860" ]
     },
+    "metadata" : [ {
+      "label" : {
+        "en" : [ "Artist/Maker" ]
+      },
+      "value" : {
+        "en" : [ "James Anderson (English photographer, 1813-1877, active in Italy)" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Title" ]
+      },
+      "value" : {
+        "en" : [ "Base of the obelisk with the Fountain of Monte Cavallo, Piazza del Quirinale, Rome" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Date" ]
+      },
+      "value" : {
+        "en" : [ "c. 1860" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Image Description" ]
+      },
+      "value" : {
+        "en" : [ "part of: Roma di Roma [album], c. late 1850s-1860s" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Materials" ]
+      },
+      "value" : {
+        "en" : [ "Albumen print laid onto original publisher’s thin card mount" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Measurements" ]
+      },
+      "value" : {
+        "en" : [ "Image: 18 x 25.3 cm", "Mount: 30.5 x 38.7 cm" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Repository" ]
+      },
+      "value" : {
+        "en" : [ "Visual Resource Collection, Department of Art History, University of California, Riverside" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Accession Number" ]
+      },
+      "value" : {
+        "en" : [ "2015.013" ]
+      }
+    } ],
     "thumbnail" : [ {
       "id" : "https://github.com/VRCUCR/robadiroma/blob/main/images/2015_013RobaRoma008/0,0,5939,4223/372,264/0/default.jpg?raw=true",
       "type" : "Image",
@@ -1049,8 +1188,65 @@
     "height" : 3923,
     "width" : 5799,
     "label" : {
-      "en" : [ "009" ]
+      "en" : [ "The Temple of Vesta and the Fountain of Triton in the Foro Boario, Rome, c. 1865" ]
     },
+    "metadata" : [ {
+      "label" : {
+        "en" : [ "Artist/Maker" ]
+      },
+      "value" : {
+        "en" : [ "James Anderson (English photographer, 1813-1877, active in Italy)" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Title" ]
+      },
+      "value" : {
+        "en" : [ "The Temple of Vesta and the Fountain of Triton in the Foro Boario, Rome" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Date" ]
+      },
+      "value" : {
+        "en" : [ "c. 1865" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Image Description" ]
+      },
+      "value" : {
+        "en" : [ "part of: Roma di Roma [album], c. late 1850s-1860s" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Materials" ]
+      },
+      "value" : {
+        "en" : [ "Albumen print laid onto original publisher’s thin card mount" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Measurements" ]
+      },
+      "value" : {
+        "en" : [ "Image: 17 x 24.6 cm", "Mount: 30.5 x 38.7 cm" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Repository" ]
+      },
+      "value" : {
+        "en" : [ "Visual Resource Collection, Department of Art History, University of California, Riverside" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Accession Number" ]
+      },
+      "value" : {
+        "en" : [ "2015.014" ]
+      }
+    } ],
     "thumbnail" : [ {
       "id" : "https://github.com/VRCUCR/robadiroma/blob/main/images/2015_014RobaRoma009/0,0,5799,3923/363,246/0/default.jpg?raw=true",
       "type" : "Image",
@@ -1121,8 +1317,65 @@
     "height" : 6018,
     "width" : 4362,
     "label" : {
-      "en" : [ "010" ]
+      "en" : [ "Temple of Minerva, Rome, c. 1860" ]
     },
+    "metadata" : [ {
+      "label" : {
+        "en" : [ "Title/Maker" ]
+      },
+      "value" : {
+        "en" : [ "possibly by James Anderson (English photographer, 1813-1877, active in Italy)" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Title" ]
+      },
+      "value" : {
+        "en" : [ "Temple of Minerva, Rome" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Date" ]
+      },
+      "value" : {
+        "en" : [ "c. 1860" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Image Description" ]
+      },
+      "value" : {
+        "en" : [ "part of: Roma di Roma [album], c. late 1850s-1860s" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Materials" ]
+      },
+      "value" : {
+        "en" : [ "albumen print laid onto original publisher’s thin card mount" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Measurements" ]
+      },
+      "value" : {
+        "en" : [ "Image: 25.5 x 18.7 cm", "Mount: 30.5 x 38.7 cm" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Repository" ]
+      },
+      "value" : {
+        "en" : [ "Visual Resource Collection, Department of Art History, University of California, Riverside" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Accession Number" ]
+      },
+      "value" : {
+        "en" : [ "2015.015" ]
+      }
+    } ],
     "thumbnail" : [ {
       "id" : "https://github.com/VRCUCR/robadiroma/blob/main/images/2015_015RobaRoma010/0,0,4362,6018/273,377/0/default.jpg?raw=true",
       "type" : "Image",
@@ -1186,8 +1439,65 @@
     "height" : 3761,
     "width" : 5880,
     "label" : {
-      "en" : [ "011" ]
+      "en" : [ "[Fountain at the Villa Medici], Rome, c 1850s-1860s" ]
     },
+    "metadata" : [ {
+      "label" : {
+        "en" : [ "Artist/Maker" ]
+      },
+      "value" : {
+        "en" : [ "Unknown Photographer" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Title" ]
+      },
+      "value" : {
+        "en" : [ "[Fountain at the Villa Medici], Rome" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Date" ]
+      },
+      "value" : {
+        "en" : [ "c. 1850s-1860s" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Image Description" ]
+      },
+      "value" : {
+        "en" : [ "part of: Roma di Roma [album], c. late 1850s-1860s" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Materials" ]
+      },
+      "value" : {
+        "en" : [ "Albumen print laid onto original publisher’s thin card mount" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Measurements" ]
+      },
+      "value" : {
+        "en" : [ "Image: 16 x 25 cm", "Mount: 30.5 x 38.7 cm" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Repository" ]
+      },
+      "value" : {
+        "en" : [ "Visual Resource Collection, Department of Art History, University of California, Riverside" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Accession Number" ]
+      },
+      "value" : {
+        "en" : [ "2015.016" ]
+      }
+    } ],
     "thumbnail" : [ {
       "id" : "https://github.com/VRCUCR/robadiroma/blob/main/images/2015_016RobaRoma011/0,0,5880,3761/368,236/0/default.jpg?raw=true",
       "type" : "Image",
@@ -1251,8 +1561,65 @@
     "height" : 4155,
     "width" : 3149,
     "label" : {
-      "en" : [ "012" ]
+      "en" : [ "[The Theatre of Marcellus], Rome, 1859\n" ]
     },
+    "metadata" : [ {
+      "label" : {
+        "en" : [ "Artist/Maker" ]
+      },
+      "value" : {
+        "en" : [ "possibly by James Anderson (English photographer, 1813-1877, active in Italy)" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Title" ]
+      },
+      "value" : {
+        "en" : [ "[The Theatre of Marcellus], Rome, " ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Date" ]
+      },
+      "value" : {
+        "en" : [ "1859" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Image Description" ]
+      },
+      "value" : {
+        "en" : [ "part of: Roma di Roma [album], c. late 1850s-1860s" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Materials" ]
+      },
+      "value" : {
+        "en" : [ "Albumen print laid onto original publisher’s thin card mount" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Measurements" ]
+      },
+      "value" : {
+        "en" : [ "Image: 26.6 x 20.3 cm", "Mount: 30.5 x 38.7 cm" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Repository" ]
+      },
+      "value" : {
+        "en" : [ "Visual Resource Collection, Department of Art History, University of California, Riverside" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Accession Number" ]
+      },
+      "value" : {
+        "en" : [ "2015.017" ]
+      }
+    } ],
     "thumbnail" : [ {
       "id" : "https://github.com/VRCUCR/robadiroma/blob/main/images/2015_017RobaRoma012/0,0,3149,4155/197,260/0/default.jpg?raw=true",
       "type" : "Image",
@@ -1316,8 +1683,65 @@
     "height" : 3688,
     "width" : 3056,
     "label" : {
-      "en" : [ "013" ]
+      "en" : [ "Temple of Saturn, Roman Forum, c. 1856-1858" ]
     },
+    "metadata" : [ {
+      "label" : {
+        "en" : [ "Artist/Maker" ]
+      },
+      "value" : {
+        "en" : [ "Possibly by Bisson Freres" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Title" ]
+      },
+      "value" : {
+        "en" : [ "Temple of Saturn, Roman Forum" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Date" ]
+      },
+      "value" : {
+        "en" : [ "c. 1856-1858" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Image Description" ]
+      },
+      "value" : {
+        "en" : [ "part of: Roma di Roma [album], c. late 1850s-1860s" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Materials" ]
+      },
+      "value" : {
+        "en" : [ "Albumen print laid onto original publisher’s thin card mount" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Measurements" ]
+      },
+      "value" : {
+        "en" : [ "Image: 23.7 x 19.7 cm", "Mount: 38.7 x 30.5 cm" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Repository" ]
+      },
+      "value" : {
+        "en" : [ "Visual Resource Collection, Department of Art History, University of California, Riverside" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Accession Number" ]
+      },
+      "value" : {
+        "en" : [ "2015.018" ]
+      }
+    } ],
     "thumbnail" : [ {
       "id" : "https://github.com/VRCUCR/robadiroma/blob/main/images/2015_018RobaRoma013/0,0,3056,3688/191,231/0/default.jpg?raw=true",
       "type" : "Image",
@@ -1381,8 +1805,65 @@
     "height" : 4035,
     "width" : 2904,
     "label" : {
-      "en" : [ "014" ]
+      "en" : [ "Equestrian Statue of Marcus Aurelius, c. 1860" ]
     },
+    "metadata" : [ {
+      "label" : {
+        "en" : [ "Artist/Maker" ]
+      },
+      "value" : {
+        "en" : [ "probably by James Anderson (English photographer, 1813-1877, active in Italy)" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Title" ]
+      },
+      "value" : {
+        "en" : [ "Equestrian Statue of Marcus Aurelius" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Date" ]
+      },
+      "value" : {
+        "en" : [ "c. 1860" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Image Description" ]
+      },
+      "value" : {
+        "en" : [ "part of: Roma di Roma [album], c. late 1850s-1860s" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Materials" ]
+      },
+      "value" : {
+        "en" : [ "Albumen print laid onto original publisher’s thin card mount" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Measurements" ]
+      },
+      "value" : {
+        "en" : [ "Image: 25.7 x 18.8 cm", "Mount: 38.7 x 30.5 cm" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Repository" ]
+      },
+      "value" : {
+        "en" : [ "Visual Resource Collection, Department of Art History, University of California, Riverside" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Accession Number" ]
+      },
+      "value" : {
+        "en" : [ "2015.019" ]
+      }
+    } ],
     "thumbnail" : [ {
       "id" : "https://github.com/VRCUCR/robadiroma/blob/main/images/2015_019RobaRoma014/0,0,2904,4035/182,253/0/default.jpg?raw=true",
       "type" : "Image",
@@ -1446,8 +1927,65 @@
     "height" : 5650,
     "width" : 4175,
     "label" : {
-      "en" : [ "015" ]
+      "en" : [ "Trevi Fountain, c. 1854" ]
     },
+    "metadata" : [ {
+      "label" : {
+        "en" : [ "Title/Maker" ]
+      },
+      "value" : {
+        "en" : [ "attributed to James Anderson (English photographer, 1813-1877, active in Italy)" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Title" ]
+      },
+      "value" : {
+        "en" : [ "Trevi Fountain" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Date" ]
+      },
+      "value" : {
+        "en" : [ "c. 1854" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Image Description" ]
+      },
+      "value" : {
+        "en" : [ "part of: Roma di Roma [album], c. late 1850s-1860s" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Materials" ]
+      },
+      "value" : {
+        "en" : [ "Albumen print laid onto original publisher’s thin card mount" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Measurements" ]
+      },
+      "value" : {
+        "en" : [ "Image: 24 x 17.8 cm", "Mount: 38.7 x 30.5 cm" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Repository" ]
+      },
+      "value" : {
+        "en" : [ "Visual Resource Collection, Department of Art History, University of California, Riverside" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Accession Number" ]
+      },
+      "value" : {
+        "en" : [ "2015.020" ]
+      }
+    } ],
     "thumbnail" : [ {
       "id" : "https://github.com/VRCUCR/robadiroma/blob/main/images/2015_020RobaRoma015/0,0,4175,5650/261,354/0/default.jpg?raw=true",
       "type" : "Image",
@@ -1511,8 +2049,65 @@
     "height" : 5742,
     "width" : 4236,
     "label" : {
-      "en" : [ "016" ]
+      "en" : [ "The Forum of Trajan, c. 1860" ]
     },
+    "metadata" : [ {
+      "label" : {
+        "en" : [ "Artist/Maker" ]
+      },
+      "value" : {
+        "en" : [ "James Anderson (English photographer, 1813-1877, active in Italy)" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Title" ]
+      },
+      "value" : {
+        "en" : [ "The Forum of Trajan" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Date" ]
+      },
+      "value" : {
+        "en" : [ "c. 1860" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Image Description" ]
+      },
+      "value" : {
+        "en" : [ "part of: Roma di Roma [album], c. late 1850s-1860s" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Materials" ]
+      },
+      "value" : {
+        "en" : [ "Albumen print laid onto original publisher’s thin card mount" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Measurements" ]
+      },
+      "value" : {
+        "en" : [ "Image: 24.5 x 18.5 cm", "Mount: 38.7 x 30.5 cm" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Repository" ]
+      },
+      "value" : {
+        "en" : [ "Visual Resource Collection, Department of Art History, University of California, Riverside" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Accession Number" ]
+      },
+      "value" : {
+        "en" : [ "2015.021" ]
+      }
+    } ],
     "thumbnail" : [ {
       "id" : "https://github.com/VRCUCR/robadiroma/blob/main/images/2015_021RobaRoma016/0,0,4236,5742/265,359/0/default.jpg?raw=true",
       "type" : "Image",
@@ -1576,8 +2171,65 @@
     "height" : 5206,
     "width" : 4342,
     "label" : {
-      "en" : [ "017" ]
+      "en" : [ "Arch of Titus, c. 1858" ]
     },
+    "metadata" : [ {
+      "label" : {
+        "en" : [ "Artist/Maker" ]
+      },
+      "value" : {
+        "en" : [ "James Anderson (English photographer, 1813-1877, active in Italy)" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Title" ]
+      },
+      "value" : {
+        "en" : [ "Arch of Titus" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Date" ]
+      },
+      "value" : {
+        "en" : [ "c. 1858" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Image Description" ]
+      },
+      "value" : {
+        "en" : [ "part of: Roma di Roma [album], c. late 1850s-1860s" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Materials" ]
+      },
+      "value" : {
+        "en" : [ "Albumen print laid onto original publisher’s thin card mount" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Measurements" ]
+      },
+      "value" : {
+        "en" : [ "Image: 22.3 x 18.7 cm", "Mount: 38.7 x 30.5 cm" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Repository" ]
+      },
+      "value" : {
+        "en" : [ "Visual Resource Collection, Department of Art History, University of California, Riverside" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Accession Number" ]
+      },
+      "value" : {
+        "en" : [ "2015.022" ]
+      }
+    } ],
     "thumbnail" : [ {
       "id" : "https://github.com/VRCUCR/robadiroma/blob/main/images/2015_022RobaRoma017/0,0,4342,5206/272,326/0/default.jpg?raw=true",
       "type" : "Image",
@@ -1641,8 +2293,65 @@
     "height" : 4029,
     "width" : 5783,
     "label" : {
-      "en" : [ "018" ]
+      "en" : [ "Arch of Janus with S. Giorgio in Velabro, c. 1855-1859" ]
     },
+    "metadata" : [ {
+      "label" : {
+        "en" : [ "Artist/Maker" ]
+      },
+      "value" : {
+        "en" : [ "Robert Macpherson (Scottish photographer and painter, ca. 1815-1872, active in Italy)" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Title" ]
+      },
+      "value" : {
+        "en" : [ "Arch of Janus with S. Giorgio in Velabro" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Date" ]
+      },
+      "value" : {
+        "en" : [ "c. 1855-1859" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Image Description" ]
+      },
+      "value" : {
+        "en" : [ "part of: Roma di Roma [album], c. late 1850s-1860s" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Materials" ]
+      },
+      "value" : {
+        "en" : [ "Albumen print laid onto original publisher’s thin card mount" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Measurements" ]
+      },
+      "value" : {
+        "en" : [ "Image: 17.3 x 24.5 cm", "Mount: 30.5 x 38.7 cm" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Repository" ]
+      },
+      "value" : {
+        "en" : [ "Visual Resource Collection, Department of Art History, University of California, Riverside" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Accession Number" ]
+      },
+      "value" : {
+        "en" : [ "2015.023" ]
+      }
+    } ],
     "thumbnail" : [ {
       "id" : "https://github.com/VRCUCR/robadiroma/blob/main/images/2015_023RobaRoma018/0,0,5783,4029/362,252/0/default.jpg?raw=true",
       "type" : "Image",
@@ -1706,8 +2415,65 @@
     "height" : 4141,
     "width" : 6091,
     "label" : {
-      "en" : [ "019" ]
+      "en" : [ "Tomb of Cecilia Matella and Appian Way, c. 1860s" ]
     },
+    "metadata" : [ {
+      "label" : {
+        "en" : [ "Artist/Maker" ]
+      },
+      "value" : {
+        "en" : [ "Joseph Spithöver (German photographer and publisher, active 19th century in Rome)" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Title" ]
+      },
+      "value" : {
+        "en" : [ "Tomb of Cecilia Matella and Appian Way" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Date" ]
+      },
+      "value" : {
+        "en" : [ "c. 1860s" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Image Description" ]
+      },
+      "value" : {
+        "en" : [ "part of: Roma di Roma [album], c. late 1850s-1860s" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Materials" ]
+      },
+      "value" : {
+        "en" : [ "Albumen print laid onto original publisher’s thin card mount" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Measurements" ]
+      },
+      "value" : {
+        "en" : [ "Image: 27.7 x 26 cm", "Mount: 30.5 x 38.7 cm" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Repository" ]
+      },
+      "value" : {
+        "en" : [ "Visual Resource Collection, Department of Art History, University of California, Riverside" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Accession Number" ]
+      },
+      "value" : {
+        "en" : [ "2015.024" ]
+      }
+    } ],
     "thumbnail" : [ {
       "id" : "https://github.com/VRCUCR/robadiroma/blob/main/images/2015_024RobaRoma019/0,0,6091,4141/381,259/0/default.jpg?raw=true",
       "type" : "Image",
@@ -1771,8 +2537,65 @@
     "height" : 3576,
     "width" : 5891,
     "label" : {
-      "en" : [ "020" ]
+      "en" : [ "Il Campodoglio" ]
     },
+    "metadata" : [ {
+      "label" : {
+        "en" : [ "Artist/Maker" ]
+      },
+      "value" : {
+        "en" : [ "Unknown Photographer" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Title" ]
+      },
+      "value" : {
+        "en" : [ "Il Campodoglio" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Date" ]
+      },
+      "value" : {
+        "en" : [ "Unknown" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Image Description" ]
+      },
+      "value" : {
+        "en" : [ "part of: Roma di Roma [album], c. late 1850s-1860s" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Materials" ]
+      },
+      "value" : {
+        "en" : [ "Albumen print laid onto original publisher’s thin card mount" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Measurements" ]
+      },
+      "value" : {
+        "en" : [ "Image: 22.8 x 37.8 cm", "Mount: 30.5 x 38.7 cm" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Repository" ]
+      },
+      "value" : {
+        "en" : [ "Visual Resource Collection, Department of Art History, University of California, Riverside" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Accession Number" ]
+      },
+      "value" : {
+        "en" : [ "2015.025" ]
+      }
+    } ],
     "thumbnail" : [ {
       "id" : "https://github.com/VRCUCR/robadiroma/blob/main/images/2015_025RobaRoma020/0,0,5891,3576/369,224/0/default.jpg?raw=true",
       "type" : "Image",
@@ -1836,8 +2659,65 @@
     "height" : 5482,
     "width" : 4398,
     "label" : {
-      "en" : [ "021" ]
+      "en" : [ "[Triumphal Arch], 1851" ]
     },
+    "metadata" : [ {
+      "label" : {
+        "en" : [ "Artist/Maker" ]
+      },
+      "value" : {
+        "en" : [ "Robert Macpherson (Scottish photographer and painter, ca. 1815-1872, active in Italy)" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Title" ]
+      },
+      "value" : {
+        "en" : [ "[Triumphal Arch]" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Date" ]
+      },
+      "value" : {
+        "en" : [ "1851" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Image Description" ]
+      },
+      "value" : {
+        "en" : [ "part of: Roma di Roma [album], c. late 1850s-1860s" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Materials" ]
+      },
+      "value" : {
+        "en" : [ "Albumen print laid onto original publisher’s thin card mount" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Measurements" ]
+      },
+      "value" : {
+        "en" : [ "Image: 35 x 28.6 cm", "Mount: 38.7 x 30.5 cm" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Repository" ]
+      },
+      "value" : {
+        "en" : [ "Visual Resource Collection, Department of Art History, University of California, Riverside" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Accession Number" ]
+      },
+      "value" : {
+        "en" : [ "2015.026" ]
+      }
+    } ],
     "thumbnail" : [ {
       "id" : "https://github.com/VRCUCR/robadiroma/blob/main/images/2015_026RobaRoma021/0,0,4398,5482/275,343/0/default.jpg?raw=true",
       "type" : "Image",
@@ -1901,8 +2781,65 @@
     "height" : 5784,
     "width" : 4132,
     "label" : {
-      "en" : [ "022" ]
+      "en" : [ "Apollo Belvedere, c. 1859" ]
     },
+    "metadata" : [ {
+      "label" : {
+        "en" : [ "Artist/Maker" ]
+      },
+      "value" : {
+        "en" : [ "possibly by James Anderson (English photographer, 1813-1877, active in Italy)" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Title" ]
+      },
+      "value" : {
+        "en" : [ "Apollo Belvedere" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Date" ]
+      },
+      "value" : {
+        "en" : [ "c. 1859" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Image Description" ]
+      },
+      "value" : {
+        "en" : [ "part of: Roma di Roma [album], c. late 1850s-1860s" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Materials" ]
+      },
+      "value" : {
+        "en" : [ "Albumen print laid onto original publisher’s thin card mount" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Measurements" ]
+      },
+      "value" : {
+        "en" : [ "Image: 24.7 x 17.7 cm", "Mount: 38.7 x 30.5 cm" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Repository" ]
+      },
+      "value" : {
+        "en" : [ "Visual Resource Collection, Department of Art History, University of California, Riverside" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Accession Number" ]
+      },
+      "value" : {
+        "en" : [ "2015.027" ]
+      }
+    } ],
     "thumbnail" : [ {
       "id" : "https://github.com/VRCUCR/robadiroma/blob/main/images/2015_027RobaRoma022/0,0,4132,5784/259,362/0/default.jpg?raw=true",
       "type" : "Image",
@@ -1966,8 +2903,65 @@
     "height" : 5232,
     "width" : 3581,
     "label" : {
-      "en" : [ "023" ]
+      "en" : [ "Augustus of Prima Porta, c. 1845-1855" ]
     },
+    "metadata" : [ {
+      "label" : {
+        "en" : [ "Artist/Maker" ]
+      },
+      "value" : {
+        "en" : [ "James Anderson (English photographer, 1813-1877, active in Italy)" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Title" ]
+      },
+      "value" : {
+        "en" : [ "Augustus of Prima Porta" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Date" ]
+      },
+      "value" : {
+        "en" : [ "c. 1845-1855" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Image Description" ]
+      },
+      "value" : {
+        "en" : [ "part of: Roma di Roma [album], c. late 1850s-1860s" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Materials" ]
+      },
+      "value" : {
+        "en" : [ "Albumen print laid onto original publisher’s thin card mount" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Measurements" ]
+      },
+      "value" : {
+        "en" : [ "Image: 22.3 x 15.3 cm", "Mount: 38.7 x 30.5 cm" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Repository" ]
+      },
+      "value" : {
+        "en" : [ "Visual Resource Collection, Department of Art History, University of California, Riverside" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Accession Number" ]
+      },
+      "value" : {
+        "en" : [ "2015.028" ]
+      }
+    } ],
     "thumbnail" : [ {
       "id" : "https://github.com/VRCUCR/robadiroma/blob/main/images/2015_023RobaRoma018/0,0,5783,4029/362,252/0/default.jpg?raw=true",
       "type" : "Image",
@@ -2031,8 +3025,65 @@
     "height" : 5940,
     "width" : 3840,
     "label" : {
-      "en" : [ "024" ]
+      "en" : [ "Damoxenus, by Canova, c. 1800, Vatican City" ]
     },
+    "metadata" : [ {
+      "label" : {
+        "en" : [ "Artist/Maker" ]
+      },
+      "value" : {
+        "en" : [ "Unknown Photographer" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Title" ]
+      },
+      "value" : {
+        "en" : [ "Damoxenus, by Canova, c. 1800, Vatican City" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Date" ]
+      },
+      "value" : {
+        "en" : [ "Unknown" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Image Description" ]
+      },
+      "value" : {
+        "en" : [ "part of: Roma di Roma [album], c. late 1850s-1860s" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Materials" ]
+      },
+      "value" : {
+        "en" : [ "Albumen print laid onto original publisher’s thin card mount" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Measurements" ]
+      },
+      "value" : {
+        "en" : [ "Image: 25.1 x 16.2 cm", "Mount: 38.7 x 30.5 cm" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Repository" ]
+      },
+      "value" : {
+        "en" : [ "Visual Resource Collection, Department of Art History, University of California, Riverside" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Accession Number" ]
+      },
+      "value" : {
+        "en" : [ "2015.029" ]
+      }
+    } ],
     "thumbnail" : [ {
       "id" : "https://github.com/VRCUCR/robadiroma/blob/main/images/2015_029RobaRoma024/0,0,3840,5940/240,372/0/default.jpg?raw=true",
       "type" : "Image",
@@ -2096,14 +3147,71 @@
     "height" : 5425,
     "width" : 3589,
     "label" : {
-      "en" : [ "025" ]
+      "en" : [ "Creugas, by Canova, c. 1870, Vatican City " ]
     },
+    "metadata" : [ {
+      "label" : {
+        "en" : [ "Artist/Maker" ]
+      },
+      "value" : {
+        "en" : [ "possibly by James Anderson (English photographer, 1813-1877, active in Italy)" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Title" ]
+      },
+      "value" : {
+        "en" : [ "Creugas, by Canova, c. 1870, Vatican City" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Date" ]
+      },
+      "value" : {
+        "en" : [ "Unknown" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Image Description" ]
+      },
+      "value" : {
+        "en" : [ "part of: Roma di Roma [album], c. late 1850s-1860s" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Materials" ]
+      },
+      "value" : {
+        "en" : [ "Albumen print laid onto original publisher’s thin card mount" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Measurements" ]
+      },
+      "value" : {
+        "en" : [ "Image: 23 x 15.4 cm", "Mount: 38.7 x 30.5 cm" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Repository" ]
+      },
+      "value" : {
+        "en" : [ "Visual Resource Collection, Department of Art History, University of California, Riverside" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Accession Number" ]
+      },
+      "value" : {
+        "en" : [ "2015.030" ]
+      }
+    } ],
     "thumbnail" : [ {
-      "id" : "https://github.com/VRCUCR/robadiroma/blob/main/images/2015_025RobaRoma020/0,0,5891,3576/369,224/0/default.jpg?raw=true",
+      "id" : "https://github.com/VRCUCR/robadiroma/blob/main/images/2015_030RobaRoma025/0,0,3589,5425/225,340/0/default.jpg?raw=true",
       "type" : "Image",
       "format" : "image/jpeg",
-      "height" : 224,
-      "width" : 369
+      "height" : 340,
+      "width" : 225
     } ],
     "items" : [ {
       "id" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/canvas/dfc1be10-e345-4dd4-9040-af37d1b41f0e/annotation-page/3ae78df8-35f5-4fa8-b85f-5bd1043fe698",
@@ -2161,8 +3269,65 @@
     "height" : 5935,
     "width" : 3050,
     "label" : {
-      "en" : [ "026" ]
+      "en" : [ "Athena Giustiniani, Vatican City" ]
     },
+    "metadata" : [ {
+      "label" : {
+        "en" : [ "Artist/Maker" ]
+      },
+      "value" : {
+        "en" : [ "Unknown Photographer" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Title" ]
+      },
+      "value" : {
+        "en" : [ "Athena Giustiniani, Vatican City" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Date" ]
+      },
+      "value" : {
+        "en" : [ "Unknown" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Image Description" ]
+      },
+      "value" : {
+        "en" : [ "part of: Roma di Roma [album], c. late 1850s-1860s" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Materials" ]
+      },
+      "value" : {
+        "en" : [ "Albumen print laid onto original publisher’s thin card mount" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Measurements" ]
+      },
+      "value" : {
+        "en" : [ "Image: 24.9 x 13 cm", "Mount: 38.7 x 30.5 cm" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Repository" ]
+      },
+      "value" : {
+        "en" : [ "Visual Resource Collection, Department of Art History, University of California, Riverside" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Accession Number" ]
+      },
+      "value" : {
+        "en" : [ "2015.031" ]
+      }
+    } ],
     "thumbnail" : [ {
       "id" : "https://github.com/VRCUCR/robadiroma/blob/main/images/2015_031RobaRoma026/0,0,3050,5935/191,371/0/default.jpg?raw=true",
       "type" : "Image",
@@ -2226,8 +3391,65 @@
     "height" : 5938,
     "width" : 4481,
     "label" : {
-      "en" : [ "027" ]
+      "en" : [ "Perseus Holding the Head of Medusa, by Canova, Vatican City, c. 1845-1855" ]
     },
+    "metadata" : [ {
+      "label" : {
+        "en" : [ "Artist/Maker" ]
+      },
+      "value" : {
+        "en" : [ "probably by James Anderson (English photographer, 1813-1877, active in Italy)" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Title" ]
+      },
+      "value" : {
+        "en" : [ "Perseus Holding the Head of Medusa, by Canova, Vatican City" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Date" ]
+      },
+      "value" : {
+        "en" : [ "c. 1845-1855" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Image Description" ]
+      },
+      "value" : {
+        "en" : [ "part of: Roma di Roma [album], c. late 1850s-1860s" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Materials" ]
+      },
+      "value" : {
+        "en" : [ "Albumen print laid onto original publisher’s thin card mount" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Measurements" ]
+      },
+      "value" : {
+        "en" : [ "Image: 37.8 x 28.6 cm", "Mount: 38.7 x 30.5 cm" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Repository" ]
+      },
+      "value" : {
+        "en" : [ "Visual Resource Collection, Department of Art History, University of California, Riverside" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Accession Number" ]
+      },
+      "value" : {
+        "en" : [ "2015.032" ]
+      }
+    } ],
     "thumbnail" : [ {
       "id" : "https://github.com/VRCUCR/robadiroma/blob/main/images/2015_032RobaRoma027/0,0,4481,5938/141,186/0/default.jpg?raw=true",
       "type" : "Image",
@@ -2291,8 +3513,65 @@
     "height" : 5019,
     "width" : 3827,
     "label" : {
-      "en" : [ "028" ]
+      "en" : [ "Moses, from the Tomb of Pope Julius II, by Michelangelo, c.1513-1515, San Piertro in Vincoli, Rome, c. 1852" ]
     },
+    "metadata" : [ {
+      "label" : {
+        "en" : [ "Artist/Maker" ]
+      },
+      "value" : {
+        "en" : [ "James Anderson (English photographer, 1813-1877, active in Italy)" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Title" ]
+      },
+      "value" : {
+        "en" : [ "Moses, from the Tomb of Pope Julius II, by Michelangelo, c.1513-1515, San Piertro in Vincoli, Rome" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Date" ]
+      },
+      "value" : {
+        "en" : [ "c. 1852" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Image Description" ]
+      },
+      "value" : {
+        "en" : [ "part of: Roma di Roma [album], c. late 1850s-1860s" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Materials" ]
+      },
+      "value" : {
+        "en" : [ "Salted paper print from a glass negative laid onto original publisher’s thin card mount" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Measurements" ]
+      },
+      "value" : {
+        "en" : [ "Image: 21.7 x 16.2 cm", "Mount: 38.7 x 30.5 cm" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Repository" ]
+      },
+      "value" : {
+        "en" : [ "Visual Resource Collection, Department of Art History, University of California, Riverside" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Accession Number" ]
+      },
+      "value" : {
+        "en" : [ "2015.033" ]
+      }
+    } ],
     "thumbnail" : [ {
       "id" : "https://github.com/VRCUCR/robadiroma/blob/main/images/2015_033RobaRoma028/0,0,3827,5019/240,314/0/default.jpg?raw=true",
       "type" : "Image",
@@ -2356,8 +3635,65 @@
     "height" : 4635,
     "width" : 6002,
     "label" : {
-      "en" : [ "029" ]
+      "en" : [ "Basilica of Saint John Lateran, Rome" ]
     },
+    "metadata" : [ {
+      "label" : {
+        "en" : [ "Artist/Maker" ]
+      },
+      "value" : {
+        "en" : [ "Unknown Photographer" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Title" ]
+      },
+      "value" : {
+        "en" : [ "Basilica of Saint John Lateran, Rome" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Date" ]
+      },
+      "value" : {
+        "en" : [ "Unknown" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Image Description" ]
+      },
+      "value" : {
+        "en" : [ "part of: Roma di Roma [album], c. late 1850s-1860s" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Materials" ]
+      },
+      "value" : {
+        "en" : [ "Albumen print laid onto original publisher’s thin card mount" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Measurements" ]
+      },
+      "value" : {
+        "en" : [ "Image: 29 x 37.5 cm", "Mount: 30.5 x 38.7 cm" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Repository" ]
+      },
+      "value" : {
+        "en" : [ "Visual Resource Collection, Department of Art History, University of California, Riverside" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Accession Number" ]
+      },
+      "value" : {
+        "en" : [ "2015.034" ]
+      }
+    } ],
     "thumbnail" : [ {
       "id" : "https://github.com/VRCUCR/robadiroma/blob/main/images/2015_034RobaRoma029/0,0,6002,4635/188,145/0/default.jpg?raw=true",
       "type" : "Image",
@@ -2421,8 +3757,65 @@
     "height" : 6012,
     "width" : 4542,
     "label" : {
-      "en" : [ "030" ]
+      "en" : [ "The Spanish Steps and the Church of the Santissima Trinita' del Monti with the Fontana della Baraccia in the foreground, c. 1855" ]
     },
+    "metadata" : [ {
+      "label" : {
+        "en" : [ "Artist/Maker" ]
+      },
+      "value" : {
+        "en" : [ "James Anderson (English photographer, 1813-1877, active in Italy)" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Title" ]
+      },
+      "value" : {
+        "en" : [ "The Spanish Steps and the Church of the Santissima Trinita' del Monti with the Fontana della Baraccia in the foreground" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Date" ]
+      },
+      "value" : {
+        "en" : [ "c. 1855" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Image Description" ]
+      },
+      "value" : {
+        "en" : [ "part of: Roma di Roma [album], c. late 1850s-1860s" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Materials" ]
+      },
+      "value" : {
+        "en" : [ "Albumen print laid onto original publisher’s thin card mount" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Measurements" ]
+      },
+      "value" : {
+        "en" : [ "Image: 38 x 30 cm", "Mount: 38.5 x 30.5 cm" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Repository" ]
+      },
+      "value" : {
+        "en" : [ "Visual Resource Collection, Department of Art History, University of California, Riverside" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Accession Number" ]
+      },
+      "value" : {
+        "en" : [ "2015.035" ]
+      }
+    } ],
     "thumbnail" : [ {
       "id" : "https://github.com/VRCUCR/RobaRoma/blob/main/images/2015_035RobaRoma030/0,0,4542,6012/142,188/0/default.jpg?raw=true",
       "type" : "Image",
@@ -2486,8 +3879,65 @@
     "height" : 5217,
     "width" : 3579,
     "label" : {
-      "en" : [ "031" ]
+      "en" : [ "The Archangel Michael Defeating Satan, by Guido Reni, 1859" ]
     },
+    "metadata" : [ {
+      "label" : {
+        "en" : [ "Artist/Maker" ]
+      },
+      "value" : {
+        "en" : [ "James Anderson (English photographer, 1813-1877, active in Italy)" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Title" ]
+      },
+      "value" : {
+        "en" : [ "The Archangel Michael Defeating Satan, by Guido Reni" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Date" ]
+      },
+      "value" : {
+        "en" : [ "1859" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Image Description" ]
+      },
+      "value" : {
+        "en" : [ "part of: Roma di Roma [album], c. late 1850s-1860s" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Materials" ]
+      },
+      "value" : {
+        "en" : [ "Albumen print laid onto original publisher’s thin card mount" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Measurements" ]
+      },
+      "value" : {
+        "en" : [ "Image: 33.3 x 23 cm", "Mount: 38.7 x 30.5 cm" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Repository" ]
+      },
+      "value" : {
+        "en" : [ "Visual Resource Collection, Department of Art History, University of California, Riverside" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Accession Number" ]
+      },
+      "value" : {
+        "en" : [ "2015.036" ]
+      }
+    } ],
     "thumbnail" : [ {
       "id" : "https://github.com/VRCUCR/robadiroma/blob/main/images/2015_036RobaRoma031/0,0,3579,5217/224,327/0/default.jpg?raw=true",
       "type" : "Image",
@@ -2551,8 +4001,65 @@
     "height" : 5342,
     "width" : 3538,
     "label" : {
-      "en" : [ "032" ]
+      "en" : [ "The Transfiguraton, by Raphael, Vatican, c. 1855-1860" ]
     },
+    "metadata" : [ {
+      "label" : {
+        "en" : [ "Artist/Maker" ]
+      },
+      "value" : {
+        "en" : [ "possibly by James Anderson (English photographer, 1813-1877, active in Italy)" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Title" ]
+      },
+      "value" : {
+        "en" : [ "The Transfiguraton, by Raphael, Vatican" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Date" ]
+      },
+      "value" : {
+        "en" : [ "c. 1855-1860" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Image Description" ]
+      },
+      "value" : {
+        "en" : [ "part of: Roma di Roma [album], c. late 1850s-1860s" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Materials" ]
+      },
+      "value" : {
+        "en" : [ "Albumen print laid onto original publisher’s thin card mount" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Measurements" ]
+      },
+      "value" : {
+        "en" : [ "Image: 33.3 x 22.7 cm", "Mount: 38.7 x 30.5 cm" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Repository" ]
+      },
+      "value" : {
+        "en" : [ "Visual Resource Collection, Department of Art History, University of California, Riverside" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Accession Number" ]
+      },
+      "value" : {
+        "en" : [ "2015.038" ]
+      }
+    } ],
     "thumbnail" : [ {
       "id" : "https://github.com/VRCUCR/robadiroma/blob/main/images/2015_037RobaRoma032/0,0,3538,5342/222,334/0/default.jpg?raw=true",
       "type" : "Image",
@@ -2616,8 +4123,65 @@
     "height" : 3731,
     "width" : 3619,
     "label" : {
-      "en" : [ "033" ]
+      "en" : [ "Deposition, by Raphael, Galleria Borghese, c. 1859" ]
     },
+    "metadata" : [ {
+      "label" : {
+        "en" : [ "Artist/Maker" ]
+      },
+      "value" : {
+        "en" : [ "probably by James Anderson (English photographer, 1813-1877, active in Italy)" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Title" ]
+      },
+      "value" : {
+        "en" : [ "Deposition, by Raphael, Galleria Borghese" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Date" ]
+      },
+      "value" : {
+        "en" : [ "c. 1859" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Image Description" ]
+      },
+      "value" : {
+        "en" : [ "part of: Roma di Roma [album], c. late 1850s-1860s" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Materials" ]
+      },
+      "value" : {
+        "en" : [ "Albumen print laid onto original publisher’s thin card mount" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Measurements" ]
+      },
+      "value" : {
+        "en" : [ "Image: 23.7 x 23 cm", "Mount: 30.5 x 38.7 cm" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Repository" ]
+      },
+      "value" : {
+        "en" : [ "Visual Resource Collection, Department of Art History, University of California, Riverside" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Accession Number" ]
+      },
+      "value" : {
+        "en" : [ "2015.038" ]
+      }
+    } ],
     "thumbnail" : [ {
       "id" : "https://github.com/VRCUCR/robadiroma/blob/main/images/2015_038RobaRoma033/0,0,3619,3731/227,234/0/default.jpg?raw=true",
       "type" : "Image",
@@ -2681,8 +4245,65 @@
     "height" : 3472,
     "width" : 4996,
     "label" : {
-      "en" : [ "034" ]
+      "en" : [ "Diana and her Nymphs, by Domenichino, Villa Borghese, c. 1845-1855" ]
     },
+    "metadata" : [ {
+      "label" : {
+        "en" : [ "Artist/Maker" ]
+      },
+      "value" : {
+        "en" : [ "James Anderson (English photographer, 1813-1877, active in Italy)" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Title" ]
+      },
+      "value" : {
+        "en" : [ "Diana and her Nymphs, by Domenichino, Villa Borghese" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Date" ]
+      },
+      "value" : {
+        "en" : [ "c. 1845-1855" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Image Description" ]
+      },
+      "value" : {
+        "en" : [ "part of: Roma di Roma [album], c. late 1850s-1860s" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Materials" ]
+      },
+      "value" : {
+        "en" : [ "Albumen print laid onto original publisher’s thin card mount" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Measurements" ]
+      },
+      "value" : {
+        "en" : [ "Image: 22.1 x 31.6 cm", "Mount: 30.5 x 38.7 cm" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Repository" ]
+      },
+      "value" : {
+        "en" : [ "Visual Resource Collection, Department of Art History, University of California, Riverside" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Accession Number" ]
+      },
+      "value" : {
+        "en" : [ "2015.039" ]
+      }
+    } ],
     "thumbnail" : [ {
       "id" : "https://github.com/VRCUCR/robadiroma/blob/main/images/2015_039RobaRoma034/0,0,4996,3472/313,217/0/default.jpg?raw=true",
       "type" : "Image",
@@ -2746,8 +4367,65 @@
     "height" : 3335,
     "width" : 3722,
     "label" : {
-      "en" : [ "035" ]
+      "en" : [ "[Renaissance Painting of Two Women], c. 1845-1855" ]
     },
+    "metadata" : [ {
+      "label" : {
+        "en" : [ "Artist/Maker" ]
+      },
+      "value" : {
+        "en" : [ "James Anderson (English photographer, 1813-1877, active in Italy)" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Title" ]
+      },
+      "value" : {
+        "en" : [ "[Renaissance Painting of Two Women]" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Date" ]
+      },
+      "value" : {
+        "en" : [ "c. 1845-1855" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Image Description" ]
+      },
+      "value" : {
+        "en" : [ "part of: Roma di Roma [album], c. late 1850s-1860s" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Materials" ]
+      },
+      "value" : {
+        "en" : [ "Albumen print laid onto original publisher’s thin card mount" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Measurements" ]
+      },
+      "value" : {
+        "en" : [ "Image: 21.4 x 23.6 cm", "Mount: 30.5 x 38.7 cm" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Repository" ]
+      },
+      "value" : {
+        "en" : [ "Visual Resource Collection, Department of Art History, University of California, Riverside" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Accession Number" ]
+      },
+      "value" : {
+        "en" : [ "2015.040" ]
+      }
+    } ],
     "thumbnail" : [ {
       "id" : "https://github.com/VRCUCR/robadiroma/blob/main/images/2015_040RobaRoma035/0,0,3722,3335/233,209/0/default.jpg?raw=true",
       "type" : "Image",
