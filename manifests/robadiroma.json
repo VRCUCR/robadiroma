@@ -10,10 +10,10 @@
   },
   "requiredStatement" : {
     "label" : {
-      "en" : [ "No Copyright" ]
+      "en" : [ "Image Rights" ]
     },
     "value" : {
-      "en" : [ "Contractual Restrictions", "CC BY-NC-SA 4.0" ]
+      "en" : [ "No Copyright - ", "Contractual Restrictions", "CC BY-NC-SA 4.0" ]
     }
   },
   "rights" : "http://creativecommons.org/licenses/by-nc-sa/4.0/",
@@ -37,7 +37,7 @@
         "en" : [ "Artist/Maker" ]
       },
       "value" : {
-        "en" : [ "James Anderson (English photographer, 1813-1877, active in Italy)", "Joseph Spithöver (German photographer and publisher, active 19th century in Rome)", "Robert Macpherson (Scottish photographer and painter, ca. 1815-1872, active in Italy)", "Unknown Maker" ]
+        "en" : [ "James Anderson (English photographer, 1813-1877, active in Italy)", "Joseph Spithöver (German photographer and publisher, active 19th century in Rome)", "Robert Macpherson (Scottish photographer and painter, ca. 1815-1872, active in Italy)", "Unknown Maker(s)" ]
       }
     }, {
       "label" : {
@@ -59,6 +59,34 @@
       },
       "value" : {
         "en" : [ "(Verso front cover) center, black printed text on bookplate: \" A JAIMAS/ EX LIBRIS/ GEORGE ABBOT JAMES.\"; top left corner, patch: \"L'OLIVIERI/ Legatore di Libri/ ROMA.\"" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Materials" ]
+      },
+      "value" : {
+        "en" : [ "Leather-bound album with 34 albumen prints and 1 salted paper print" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Measurements" ]
+      },
+      "value" : {
+        "en" : [ "39.7 x 31.5 cm (overall)" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Repository" ]
+      },
+      "value" : {
+        "en" : [ "Visual Resource Collection, Department of Art History, University of California, Riverside" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Image Rights" ]
+      },
+      "value" : {
+        "en" : [ "No Copyright - Contractual Restrictions: CC BY-NC-SA 4.0", "" ]
       }
     } ],
     "thumbnail" : [ {
@@ -132,6 +160,13 @@
       },
       "value" : {
         "en" : [ "Verso cover" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Image Rights" ]
+      },
+      "value" : {
+        "en" : [ "No Copyright - Contractual Restrictions: CC BY-NC-SA 4.0" ]
       }
     } ],
     "summary" : {
@@ -207,7 +242,7 @@
         "en" : [ "Artist/Maker" ]
       },
       "value" : {
-        "en" : [ "James Anderson (English photographer, 1813-1877, active in Italy)" ]
+        "en" : [ "James Anderson (English photographer, 1813-1877, active in Italy), after(?) Giacomo Brogi (Italian photographer, 1822-1881)" ]
       }
     }, {
       "label" : {
@@ -257,6 +292,13 @@
       },
       "value" : {
         "en" : [ "2015.006" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Image Rights" ]
+      },
+      "value" : {
+        "en" : [ "No Copyright - Contractual Restrictions: CC BY-NC-SA 4.0" ]
       }
     } ],
     "summary" : {
@@ -392,6 +434,13 @@
       "value" : {
         "en" : [ "2015.007" ]
       }
+    }, {
+      "label" : {
+        "en" : [ "Image Rights" ]
+      },
+      "value" : {
+        "en" : [ "No Copyright - Contractual Restrictions: CC BY-NC-SA 4.0" ]
+      }
     } ],
     "thumbnail" : [ {
       "id" : "https://github.com/VRCUCR/robadiroma/blob/main/images/2015_007RobaRoma002/0,0,2065,3072/130,192/0/default.jpg?raw=true",
@@ -513,6 +562,13 @@
       },
       "value" : {
         "en" : [ "2015.008" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Image Rights" ]
+      },
+      "value" : {
+        "en" : [ "No Copyright - Contractual Restrictions: CC BY-NC-SA 4.0" ]
       }
     } ],
     "thumbnail" : [ {
@@ -636,6 +692,13 @@
       "value" : {
         "en" : [ "2015.009" ]
       }
+    }, {
+      "label" : {
+        "en" : [ "Image Rights" ]
+      },
+      "value" : {
+        "en" : [ "No Copyright - Contractual Restrictions: CC BY-NC-SA 4.0" ]
+      }
     } ],
     "thumbnail" : [ {
       "id" : "https://github.com/VRCUCR/robadiroma/blob/main/images/2015_009RobaRoma004/0,0,3072,2085/192,131/0/default.jpg?raw=true",
@@ -700,28 +763,28 @@
     "height" : 4510,
     "width" : 6175,
     "label" : {
-      "en" : [ "Roman Forum with a View of the Temple of Saturn in foreground and Arch of Titus in background" ]
+      "en" : [ "[View of the Foro Romano with the Temple of Saturn in foreground and Arch of Titus in background], c. 1860" ]
     },
     "metadata" : [ {
       "label" : {
         "en" : [ "Artist/Maker" ]
       },
       "value" : {
-        "en" : [ "Unknown Photographer" ]
+        "en" : [ "Unidentified photographer" ]
       }
     }, {
       "label" : {
         "en" : [ "Title" ]
       },
       "value" : {
-        "en" : [ "Roman Forum with a View of the Temple of Saturn in foreground and Arch of Titus in background" ]
+        "en" : [ "[View of the Foro Romano with the Temple of Saturn in foreground and Arch of Titus in background]" ]
       }
     }, {
       "label" : {
         "en" : [ "Date" ]
       },
       "value" : {
-        "en" : [ "Unknown" ]
+        "en" : [ "c. 1860" ]
       }
     }, {
       "label" : {
@@ -742,7 +805,7 @@
         "en" : [ "Measurements" ]
       },
       "value" : {
-        "en" : [ "Image: 19.4 x 26.4 cm", "Mount: 30,5 x 38.7 cm" ]
+        "en" : [ "Image: 19.4 x 26.4 cm", "Mount: 30.5 x 38.7 cm" ]
       }
     }, {
       "label" : {
@@ -757,6 +820,13 @@
       },
       "value" : {
         "en" : [ "2015.010" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Image Rights" ]
+      },
+      "value" : {
+        "en" : [ "No Copyright - Contractual Restrictions: CC BY-NC-SA 4.0" ]
       }
     } ],
     "thumbnail" : [ {
@@ -822,21 +892,21 @@
     "height" : 3247,
     "width" : 4112,
     "label" : {
-      "en" : [ "Castel Sant'Angelo, c. 1855" ]
+      "en" : [ "Castel Sant'Angelo, Rome, c. 1855" ]
     },
     "metadata" : [ {
       "label" : {
         "en" : [ "Artist/Maker" ]
       },
       "value" : {
-        "en" : [ "Unidentified" ]
+        "en" : [ "possibly by James Anderson (English photographer, 1813-1877, active in Italy)" ]
       }
     }, {
       "label" : {
         "en" : [ "Title" ]
       },
       "value" : {
-        "en" : [ "Castel Sant'Angelo" ]
+        "en" : [ "Castel Sant'Angelo, Rome" ]
       }
     }, {
       "label" : {
@@ -879,6 +949,13 @@
       },
       "value" : {
         "en" : [ "2015.011" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Image Rights" ]
+      },
+      "value" : {
+        "en" : [ "No Copyright - Contractual Restrictions: CC BY-NC-SA 4.0" ]
       }
     } ],
     "thumbnail" : [ {
@@ -1002,6 +1079,13 @@
       "value" : {
         "en" : [ "2015.12" ]
       }
+    }, {
+      "label" : {
+        "en" : [ "Image Rights" ]
+      },
+      "value" : {
+        "en" : [ "No Copyright - Contractual Restrictions: CC BY-NC-SA 4.0" ]
+      }
     } ],
     "thumbnail" : [ {
       "id" : "https://github.com/VRCUCR/robadiroma/blob/main/images/2015_012RobaRoma007/0,0,4053,3108/254,195/0/default.jpg?raw=true",
@@ -1124,6 +1208,13 @@
       "value" : {
         "en" : [ "2015.013" ]
       }
+    }, {
+      "label" : {
+        "en" : [ "Image Rights" ]
+      },
+      "value" : {
+        "en" : [ "No Copyright - Contractual Restrictions: CC BY-NC-SA 4.0" ]
+      }
     } ],
     "thumbnail" : [ {
       "id" : "https://github.com/VRCUCR/robadiroma/blob/main/images/2015_013RobaRoma008/0,0,5939,4223/372,264/0/default.jpg?raw=true",
@@ -1245,6 +1336,13 @@
       },
       "value" : {
         "en" : [ "2015.014" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Image Rights" ]
+      },
+      "value" : {
+        "en" : [ "No Copyright - Contractual Restrictions: CC BY-NC-SA 4.0" ]
       }
     } ],
     "thumbnail" : [ {
@@ -1375,6 +1473,13 @@
       "value" : {
         "en" : [ "2015.015" ]
       }
+    }, {
+      "label" : {
+        "en" : [ "Image Rights" ]
+      },
+      "value" : {
+        "en" : [ "No Copyright - Contractual Restrictions: CC BY-NC-SA 4.0" ]
+      }
     } ],
     "thumbnail" : [ {
       "id" : "https://github.com/VRCUCR/robadiroma/blob/main/images/2015_015RobaRoma010/0,0,4362,6018/273,377/0/default.jpg?raw=true",
@@ -1446,7 +1551,7 @@
         "en" : [ "Artist/Maker" ]
       },
       "value" : {
-        "en" : [ "Unknown Photographer" ]
+        "en" : [ "Unidentified photographer" ]
       }
     }, {
       "label" : {
@@ -1496,6 +1601,13 @@
       },
       "value" : {
         "en" : [ "2015.016" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Image Rights" ]
+      },
+      "value" : {
+        "en" : [ "No Copyright - Contractual Restrictions: CC BY-NC-SA 4.0" ]
       }
     } ],
     "thumbnail" : [ {
@@ -1561,21 +1673,21 @@
     "height" : 4155,
     "width" : 3149,
     "label" : {
-      "en" : [ "[The Theatre of Marcellus], Rome, 1859\n" ]
+      "en" : [ "[Via de Sugherari, the Theatre of Marcellus], Rome, 1859\n" ]
     },
     "metadata" : [ {
       "label" : {
         "en" : [ "Artist/Maker" ]
       },
       "value" : {
-        "en" : [ "possibly by James Anderson (English photographer, 1813-1877, active in Italy)" ]
+        "en" : [ "possibly by Robert Macpherson (Scottish photographer and painter, ca. 1815-1872, active in Italy)" ]
       }
     }, {
       "label" : {
         "en" : [ "Title" ]
       },
       "value" : {
-        "en" : [ "[The Theatre of Marcellus], Rome, " ]
+        "en" : [ "[Via de Sugherari, the Theatre of Marcellus], Rome, " ]
       }
     }, {
       "label" : {
@@ -1618,6 +1730,13 @@
       },
       "value" : {
         "en" : [ "2015.017" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Image Rights" ]
+      },
+      "value" : {
+        "en" : [ "No Copyright - Contractual Restrictions: CC BY-NC-SA 4.0" ]
       }
     } ],
     "thumbnail" : [ {
@@ -1690,7 +1809,7 @@
         "en" : [ "Artist/Maker" ]
       },
       "value" : {
-        "en" : [ "Possibly by Bisson Freres" ]
+        "en" : [ "attributed to Bisson Frères (French photography studio, 1841-1864)" ]
       }
     }, {
       "label" : {
@@ -1740,6 +1859,13 @@
       },
       "value" : {
         "en" : [ "2015.018" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Image Rights" ]
+      },
+      "value" : {
+        "en" : [ "No Copyright - Contractual Restrictions: CC BY-NC-SA 4.0" ]
       }
     } ],
     "thumbnail" : [ {
@@ -1863,6 +1989,13 @@
       "value" : {
         "en" : [ "2015.019" ]
       }
+    }, {
+      "label" : {
+        "en" : [ "Image Rights" ]
+      },
+      "value" : {
+        "en" : [ "No Copyright - Contractual Restrictions: CC BY-NC-SA 4.0" ]
+      }
     } ],
     "thumbnail" : [ {
       "id" : "https://github.com/VRCUCR/robadiroma/blob/main/images/2015_019RobaRoma014/0,0,2904,4035/182,253/0/default.jpg?raw=true",
@@ -1984,6 +2117,13 @@
       },
       "value" : {
         "en" : [ "2015.020" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Image Rights" ]
+      },
+      "value" : {
+        "en" : [ "No Copyright - Contractual Restrictions: CC BY-NC-SA 4.0" ]
       }
     } ],
     "thumbnail" : [ {
@@ -2107,6 +2247,13 @@
       "value" : {
         "en" : [ "2015.021" ]
       }
+    }, {
+      "label" : {
+        "en" : [ "Image Rights" ]
+      },
+      "value" : {
+        "en" : [ "No Copyright - Contractual Restrictions: CC BY-NC-SA 4.0" ]
+      }
     } ],
     "thumbnail" : [ {
       "id" : "https://github.com/VRCUCR/robadiroma/blob/main/images/2015_021RobaRoma016/0,0,4236,5742/265,359/0/default.jpg?raw=true",
@@ -2228,6 +2375,13 @@
       },
       "value" : {
         "en" : [ "2015.022" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Image Rights" ]
+      },
+      "value" : {
+        "en" : [ "No Copyright - Contractual Restrictions: CC BY-NC-SA 4.0" ]
       }
     } ],
     "thumbnail" : [ {
@@ -2351,6 +2505,13 @@
       "value" : {
         "en" : [ "2015.023" ]
       }
+    }, {
+      "label" : {
+        "en" : [ "Image Rights" ]
+      },
+      "value" : {
+        "en" : [ "No Copyright - Contractual Restrictions: CC BY-NC-SA 4.0" ]
+      }
     } ],
     "thumbnail" : [ {
       "id" : "https://github.com/VRCUCR/robadiroma/blob/main/images/2015_023RobaRoma018/0,0,5783,4029/362,252/0/default.jpg?raw=true",
@@ -2473,6 +2634,13 @@
       "value" : {
         "en" : [ "2015.024" ]
       }
+    }, {
+      "label" : {
+        "en" : [ "Image Rights" ]
+      },
+      "value" : {
+        "en" : [ "No Copyright - Contractual Restrictions: CC BY-NC-SA 4.0" ]
+      }
     } ],
     "thumbnail" : [ {
       "id" : "https://github.com/VRCUCR/robadiroma/blob/main/images/2015_024RobaRoma019/0,0,6091,4141/381,259/0/default.jpg?raw=true",
@@ -2544,7 +2712,7 @@
         "en" : [ "Artist/Maker" ]
       },
       "value" : {
-        "en" : [ "Unknown Photographer" ]
+        "en" : [ "Unidentified photographer" ]
       }
     }, {
       "label" : {
@@ -2594,6 +2762,13 @@
       },
       "value" : {
         "en" : [ "2015.025" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Image Rights" ]
+      },
+      "value" : {
+        "en" : [ "No Copyright - Contractual Restrictions: CC BY-NC-SA 4.0" ]
       }
     } ],
     "thumbnail" : [ {
@@ -2717,6 +2892,13 @@
       "value" : {
         "en" : [ "2015.026" ]
       }
+    }, {
+      "label" : {
+        "en" : [ "Image Rights" ]
+      },
+      "value" : {
+        "en" : [ "No Copyright - Contractual Restrictions: CC BY-NC-SA 4.0" ]
+      }
     } ],
     "thumbnail" : [ {
       "id" : "https://github.com/VRCUCR/robadiroma/blob/main/images/2015_026RobaRoma021/0,0,4398,5482/275,343/0/default.jpg?raw=true",
@@ -2838,6 +3020,13 @@
       },
       "value" : {
         "en" : [ "2015.027" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Image Rights" ]
+      },
+      "value" : {
+        "en" : [ "No Copyright - Contractual Restrictions: CC BY-NC-SA 4.0" ]
       }
     } ],
     "thumbnail" : [ {
@@ -2961,13 +3150,20 @@
       "value" : {
         "en" : [ "2015.028" ]
       }
+    }, {
+      "label" : {
+        "en" : [ "Image Rights" ]
+      },
+      "value" : {
+        "en" : [ "No Copyright - Contractual Restrictions: CC BY-NC-SA 4.0" ]
+      }
     } ],
     "thumbnail" : [ {
-      "id" : "https://github.com/VRCUCR/robadiroma/blob/main/images/2015_023RobaRoma018/0,0,5783,4029/362,252/0/default.jpg?raw=true",
+      "id" : "https://github.com/VRCUCR/robadiroma/blob/main/images/2015_028RobaRoma023/0,0,3581,5232/224,327/0/default.jpg?raw=true",
       "type" : "Image",
       "format" : "image/jpeg",
-      "height" : 252,
-      "width" : 362
+      "height" : 327,
+      "width" : 224
     } ],
     "items" : [ {
       "id" : "https://example.org/b3cac19e-cf42-47a4-ac40-ab8f7e46d170/canvas/bce098ae-b84b-4420-becc-9915d833c1d5/annotation-page/fe031d70-b5a5-48ca-96b0-37f6d86dcbe1",
@@ -3025,21 +3221,21 @@
     "height" : 5940,
     "width" : 3840,
     "label" : {
-      "en" : [ "Damoxenus, by Canova, c. 1800, Vatican City" ]
+      "en" : [ "Damoxenus, by Canova, c. 1800, Vatican" ]
     },
     "metadata" : [ {
       "label" : {
         "en" : [ "Artist/Maker" ]
       },
       "value" : {
-        "en" : [ "Unknown Photographer" ]
+        "en" : [ "Unidentified photographer" ]
       }
     }, {
       "label" : {
         "en" : [ "Title" ]
       },
       "value" : {
-        "en" : [ "Damoxenus, by Canova, c. 1800, Vatican City" ]
+        "en" : [ "Damoxenus, by Canova, c. 1800, Vatican" ]
       }
     }, {
       "label" : {
@@ -3082,6 +3278,13 @@
       },
       "value" : {
         "en" : [ "2015.029" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Image Rights" ]
+      },
+      "value" : {
+        "en" : [ "No Copyright - Contractual Restrictions: CC BY-NC-SA 4.0" ]
       }
     } ],
     "thumbnail" : [ {
@@ -3147,21 +3350,21 @@
     "height" : 5425,
     "width" : 3589,
     "label" : {
-      "en" : [ "Creugas, by Canova, c. 1870, Vatican City " ]
+      "en" : [ "Creugas, by Canova, c. 1870, Vatican" ]
     },
     "metadata" : [ {
       "label" : {
         "en" : [ "Artist/Maker" ]
       },
       "value" : {
-        "en" : [ "possibly by James Anderson (English photographer, 1813-1877, active in Italy)" ]
+        "en" : [ "Unidentified photographer" ]
       }
     }, {
       "label" : {
         "en" : [ "Title" ]
       },
       "value" : {
-        "en" : [ "Creugas, by Canova, c. 1870, Vatican City" ]
+        "en" : [ "Creugas, by Canova, c. 1870, Vatican" ]
       }
     }, {
       "label" : {
@@ -3204,6 +3407,13 @@
       },
       "value" : {
         "en" : [ "2015.030" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Image Rights" ]
+      },
+      "value" : {
+        "en" : [ "No Copyright - Contractual Restrictions: CC BY-NC-SA 4.0" ]
       }
     } ],
     "thumbnail" : [ {
@@ -3269,28 +3479,28 @@
     "height" : 5935,
     "width" : 3050,
     "label" : {
-      "en" : [ "Athena Giustiniani, Vatican City" ]
+      "en" : [ "Athena Giustiniani, Roman copy of late 5th–early 4th century BCE Greek original, Vatican, c. 1860" ]
     },
     "metadata" : [ {
       "label" : {
         "en" : [ "Artist/Maker" ]
       },
       "value" : {
-        "en" : [ "Unknown Photographer" ]
+        "en" : [ "Unidentified photographer" ]
       }
     }, {
       "label" : {
         "en" : [ "Title" ]
       },
       "value" : {
-        "en" : [ "Athena Giustiniani, Vatican City" ]
+        "en" : [ "Athena Giustiniani, Roman copy of late 5th–early 4th century BCE Greek original, Vatican" ]
       }
     }, {
       "label" : {
         "en" : [ "Date" ]
       },
       "value" : {
-        "en" : [ "Unknown" ]
+        "en" : [ "c. 1860" ]
       }
     }, {
       "label" : {
@@ -3326,6 +3536,13 @@
       },
       "value" : {
         "en" : [ "2015.031" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Image Rights" ]
+      },
+      "value" : {
+        "en" : [ "No Copyright - Contractual Restrictions: CC BY-NC-SA 4.0" ]
       }
     } ],
     "thumbnail" : [ {
@@ -3391,7 +3608,7 @@
     "height" : 5938,
     "width" : 4481,
     "label" : {
-      "en" : [ "Perseus Holding the Head of Medusa, by Canova, Vatican City, c. 1845-1855" ]
+      "en" : [ "Perseus Holding the Head of Medusa, by Canova, Vatican, c. 1845-1855" ]
     },
     "metadata" : [ {
       "label" : {
@@ -3405,7 +3622,7 @@
         "en" : [ "Title" ]
       },
       "value" : {
-        "en" : [ "Perseus Holding the Head of Medusa, by Canova, Vatican City" ]
+        "en" : [ "Perseus Holding the Head of Medusa, by Canova, Vatican" ]
       }
     }, {
       "label" : {
@@ -3448,6 +3665,13 @@
       },
       "value" : {
         "en" : [ "2015.032" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Image Rights" ]
+      },
+      "value" : {
+        "en" : [ "No Copyright - Contractual Restrictions: CC BY-NC-SA 4.0" ]
       }
     } ],
     "thumbnail" : [ {
@@ -3571,6 +3795,13 @@
       "value" : {
         "en" : [ "2015.033" ]
       }
+    }, {
+      "label" : {
+        "en" : [ "Image Rights" ]
+      },
+      "value" : {
+        "en" : [ "No Copyright - Contractual Restrictions: CC BY-NC-SA 4.0" ]
+      }
     } ],
     "thumbnail" : [ {
       "id" : "https://github.com/VRCUCR/robadiroma/blob/main/images/2015_033RobaRoma028/0,0,3827,5019/240,314/0/default.jpg?raw=true",
@@ -3642,7 +3873,7 @@
         "en" : [ "Artist/Maker" ]
       },
       "value" : {
-        "en" : [ "Unknown Photographer" ]
+        "en" : [ "Unidentified photographer" ]
       }
     }, {
       "label" : {
@@ -3656,7 +3887,7 @@
         "en" : [ "Date" ]
       },
       "value" : {
-        "en" : [ "Unknown" ]
+        "en" : [ "c. 1860" ]
       }
     }, {
       "label" : {
@@ -3692,6 +3923,13 @@
       },
       "value" : {
         "en" : [ "2015.034" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Image Rights" ]
+      },
+      "value" : {
+        "en" : [ "No Copyright - Contractual Restrictions: CC BY-NC-SA 4.0" ]
       }
     } ],
     "thumbnail" : [ {
@@ -3815,6 +4053,13 @@
       "value" : {
         "en" : [ "2015.035" ]
       }
+    }, {
+      "label" : {
+        "en" : [ "Image Rights" ]
+      },
+      "value" : {
+        "en" : [ "No Copyright - Contractual Restrictions: CC BY-NC-SA 4.0" ]
+      }
     } ],
     "thumbnail" : [ {
       "id" : "https://github.com/VRCUCR/RobaRoma/blob/main/images/2015_035RobaRoma030/0,0,4542,6012/142,188/0/default.jpg?raw=true",
@@ -3936,6 +4181,13 @@
       },
       "value" : {
         "en" : [ "2015.036" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Image Rights" ]
+      },
+      "value" : {
+        "en" : [ "No Copyright - Contractual Restrictions: CC BY-NC-SA 4.0" ]
       }
     } ],
     "thumbnail" : [ {
@@ -4059,6 +4311,13 @@
       "value" : {
         "en" : [ "2015.038" ]
       }
+    }, {
+      "label" : {
+        "en" : [ "Image Rights" ]
+      },
+      "value" : {
+        "en" : [ "No Copyright - Contractual Restrictions: CC BY-NC-SA 4.0" ]
+      }
     } ],
     "thumbnail" : [ {
       "id" : "https://github.com/VRCUCR/robadiroma/blob/main/images/2015_037RobaRoma032/0,0,3538,5342/222,334/0/default.jpg?raw=true",
@@ -4180,6 +4439,13 @@
       },
       "value" : {
         "en" : [ "2015.038" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Image Rights" ]
+      },
+      "value" : {
+        "en" : [ "No Copyright - Contractual Restrictions: CC BY-NC-SA 4.0" ]
       }
     } ],
     "thumbnail" : [ {
@@ -4303,6 +4569,13 @@
       "value" : {
         "en" : [ "2015.039" ]
       }
+    }, {
+      "label" : {
+        "en" : [ "Image Rights" ]
+      },
+      "value" : {
+        "en" : [ "No Copyright - Contractual Restrictions: CC BY-NC-SA 4.0" ]
+      }
     } ],
     "thumbnail" : [ {
       "id" : "https://github.com/VRCUCR/robadiroma/blob/main/images/2015_039RobaRoma034/0,0,4996,3472/313,217/0/default.jpg?raw=true",
@@ -4424,6 +4697,13 @@
       },
       "value" : {
         "en" : [ "2015.040" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Image Rights" ]
+      },
+      "value" : {
+        "en" : [ "No Copyright - Contractual Restrictions: CC BY-NC-SA 4.0" ]
       }
     } ],
     "thumbnail" : [ {
