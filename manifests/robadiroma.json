@@ -152,14 +152,56 @@
     "height" : 2484,
     "width" : 3495,
     "label" : {
-      "en" : [ "Verso cover" ]
+      "en" : [ "Roba di Roma [album]; Cover (verso), c. late 1850s-1860s" ]
     },
     "metadata" : [ {
       "label" : {
-        "en" : [ "Roma di Roma [album], c. late 1850s-1860s" ]
+        "en" : [ "Artist/Maker" ]
       },
       "value" : {
-        "en" : [ "Verso cover" ]
+        "en" : [ "James Anderson (English photographer, 1813-1877, active in Italy)", "Joseph Spithöver (German photographer and publisher, active 19th century in Rome)", "Robert Macpherson (Scottish photographer and painter, ca. 1815-1872, active in Italy)", "Unknown Maker(s)" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Title" ]
+      },
+      "value" : {
+        "en" : [ "Roba di Roma [album]; Cover (verso)" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Date" ]
+      },
+      "value" : {
+        "en" : [ "c. late 1850s-1860s" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Inscriptions" ]
+      },
+      "value" : {
+        "en" : [ "(Verso front cover) center, black printed text on bookplate: \" A JAIMAS/ EX LIBRIS/ GEORGE ABBOT JAMES.\"; top left corner, patch: \"L'OLIVIERI/ Legatore di Libri/ ROMA.\"" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Materials" ]
+      },
+      "value" : {
+        "en" : [ "Leather-bound album with 34 albumen prints and 1 salted paper print" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Measurements" ]
+      },
+      "value" : {
+        "en" : [ "39.7 x 31.5 cm (overall)" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Repository" ]
+      },
+      "value" : {
+        "en" : [ "Visual Resource Collection, Department of Art History, University of California, Riverside" ]
       }
     }, {
       "label" : {
@@ -302,17 +344,16 @@
       }
     } ],
     "summary" : {
-      "en" : [ "Roma di Roma [album], c. late 1850s-1860s" ]
+      "en" : [ "" ]
     },
     "requiredStatement" : {
-      "value" : {
-        "en" : [ "CC BY-NC-SA 4.0" ]
-      },
       "label" : {
-        "en" : [ "No Copyright - Contractual RestrictionsOption" ]
+        "en" : [ "" ]
+      },
+      "value" : {
+        "en" : [ "" ]
       }
     },
-    "rights" : "http://creativecommons.org/licenses/by-nc-sa/4.0/",
     "thumbnail" : [ {
       "id" : "https://github.com/VRCUCR/robadiroma/blob/main/images/2015_006RobaRoma001/0,0,1751,3072/110,192/0/default.jpg?raw=true",
       "type" : "Image",
@@ -1077,7 +1118,7 @@
         "en" : [ "Accession Number" ]
       },
       "value" : {
-        "en" : [ "2015.12" ]
+        "en" : [ "2015.012" ]
       }
     }, {
       "label" : {
@@ -1450,7 +1491,7 @@
         "en" : [ "Materials" ]
       },
       "value" : {
-        "en" : [ "albumen print laid onto original publisher’s thin card mount" ]
+        "en" : [ "Albumen print laid onto original publisher’s thin card mount" ]
       }
     }, {
       "label" : {
@@ -2705,7 +2746,7 @@
     "height" : 3576,
     "width" : 5891,
     "label" : {
-      "en" : [ "Il Campodoglio" ]
+      "en" : [ "Il Campodoglio, c. 1860" ]
     },
     "metadata" : [ {
       "label" : {
@@ -2726,7 +2767,7 @@
         "en" : [ "Date" ]
       },
       "value" : {
-        "en" : [ "Unknown" ]
+        "en" : [ "c. 1860" ]
       }
     }, {
       "label" : {
@@ -3221,7 +3262,7 @@
     "height" : 5940,
     "width" : 3840,
     "label" : {
-      "en" : [ "Damoxenus, by Canova, c. 1800, Vatican" ]
+      "en" : [ "Damoxenus, by Canova, Vatican, c. 1860" ]
     },
     "metadata" : [ {
       "label" : {
@@ -3242,7 +3283,7 @@
         "en" : [ "Date" ]
       },
       "value" : {
-        "en" : [ "Unknown" ]
+        "en" : [ "c. 1860" ]
       }
     }, {
       "label" : {
@@ -3350,7 +3391,7 @@
     "height" : 5425,
     "width" : 3589,
     "label" : {
-      "en" : [ "Creugas, by Canova, c. 1870, Vatican" ]
+      "en" : [ "Creugas, by Canova, Vatican, c. 1860" ]
     },
     "metadata" : [ {
       "label" : {
@@ -3364,14 +3405,14 @@
         "en" : [ "Title" ]
       },
       "value" : {
-        "en" : [ "Creugas, by Canova, c. 1870, Vatican" ]
+        "en" : [ "Creugas, by Canova, Vatican" ]
       }
     }, {
       "label" : {
         "en" : [ "Date" ]
       },
       "value" : {
-        "en" : [ "Unknown" ]
+        "en" : [ "c. 1860" ]
       }
     }, {
       "label" : {
